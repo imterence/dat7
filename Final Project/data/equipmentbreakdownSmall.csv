@@ -1,0 +1,909 @@
+REG_DATE,ERR_DESCR,WORK_DESCR_LO,PERFORMED_ACTION_LO,RIG,AGE_OF_RIG,PERFORMED_ACTION_ID,PERFORMED_ACTION,ERR_TYPE,ERROR_TYPE,MCH_CODE,MCH_CODE_DESCRIPTION,SFI,Count_of_breakdown
+13-Jul-15,Assistance to Fanø crane service.,na,Assist Fanø crane service.,J105,5361,12,Other,6.2,Other,11002484,CRANE NO.2; FWD;STBD,361,42
+07-Jun-15,replace cables and plugs for test equip in mudlab,replace cables and plugs for test equip in mudlab,cables damaged,J105,5361,1,Replace,4.3,No power/voltage,12010582,THIRD PARTY EQUIPMENT - GROUP,180,43
+08-Jun-15,Modifi bit braker,Modifi bit braker to fit new bit from Conoco,Modifi bit breaker to fit new bit from Conoco,J105,5361,1,Replace,1,General,10001235,"BIT SUB; 7 5/8"" REG BOX X BOX",353,1
+10-Nov-15,Assist Archer with electrical connections etc.,Hook up test repair,Assist 3rd party,J105,5361,7,Service,6,General,12010588,OFFICE CONTAINER,180,1
+09-Jan-16,Hook up MWD container,Hook up MWD container,Hook up MWD container,J105,5361,12,Other,6,General,12010582,THIRD PARTY EQUIPMENT - GROUP,180,43
+09-Feb-16,hook up third party units,hook up third party units,Hook up of schlumberger workshop container,J105,5361,1,Replace,1,General,12010582,THIRD PARTY EQUIPMENT - GROUP,180,43
+10-Nov-15,Assist Archer with electrical connections etc.,Hook up test repair,Assist 3rd party,J105,5361,7,Service,6,General,12010590,WINCH,180,1
+26-Dec-15,HOOK UP THIRD PARTY EQUIPMENT,HOOK UP ARCHER AND WELTEC UNITS,Disconnection of wireline unit,J105,5361,12,Other,6.2,Other,12010582,THIRD PARTY EQUIPMENT - GROUP,180,43
+20-Jul-16,Faultfind AC unit MWD,Faultfind. During faultfind we blew a fuse on 24V supply. After replacing this unit came back online.,Faultfind. During faultfind we blew a fuse on 24V supply. After replacing this unit came back online.,J105,5361,6,Check,3.3,Faulty signal/indication/alarm,12010582,THIRD PARTY EQUIPMENT - GROUP,180,43
+05-Feb-16,hook up third party uinits,hook up third party uinits,.,J105,5361,1,Replace,1,General,12010582,THIRD PARTY EQUIPMENT - GROUP,180,43
+08-Feb-16,hook up third party uinits,hook up third party uinits,Hook up of Baker workshop container,J105,5361,1,Replace,6.2,Other,12010582,THIRD PARTY EQUIPMENT - GROUP,180,43
+06-Sep-15,Support to Eldfisk A/Schlumberger coiltubing hyd hose repai,"Went to Eldfisk A identifyed hose and connections told Sclumberger to order parts for crimping new connections.
+Supported part numbers for items to order.
+Hose rigged down by Schlumb and transported to Innovator.
+Crimp fittings and ferrules arrived Innovator by crew change helicopter same afternoon.
+New connections crimped to hose the same afternoon with Innovator equipment backloaded to boat around 1800 hrs.",Assisted Copno/Schlumberger with check of hose in situ adviced witch parts to order and crimping of new connections for coiltubing unit hydraulic hose.,J105,5361,5,Refit,2.5,Breakage,12010582,THIRD PARTY EQUIPMENT - GROUP,180,43
+22-Mar-16,Troubleshoot downstream sensor Sperry,Faultfind and remedy sensor,"Troubleshooting. Found 2 pairs crossed over. 
+Potential was wrong on DC circuit output were wrong on feedback circuit.
+Fixed and tested.",J105,5361,7,Service,4.2,Open circuit,12010582,THIRD PARTY EQUIPMENT - GROUP,180,43
+26-Aug-15,Repair after break down on ME2,"Postponed. Work to start 06.09.2015.   OBJ
+Postponed work order done order need to be finished up. SBE137 23.09.2015",Re-connect and faultfindings due to engine and generator problems,J105,5361,9,Inspection,3.1,Control failure,11003306,ENGINE NO.2; MAIN;DIESEL,651,26
+09-Sep-15,Service hours ME2  Man B&W assembly,Overhaul ME2,"Overhaul ME2
+Service engineers.",J105,5361,1,Replace,2.6,Fatigue,11004673,GENERATOR NO.2; MAIN;DIESEL ENGINE NO.2,651,4
+21-Aug-15,Replacing  PSV's on cementing unit ref PR 10200009988,PR 10200009988,Change PSVs,J106,5117,12,Other,6,General,10612324,CEMENTING UNIT,371,1
+12-Nov-16,Assistance to onshore mud loggers,"Various restart/reset of controlsystems
+Refill destillated water to gas-measuring system","Resettings of various PC''s etc in logging unit
+Refill water to measuring systems",J105,5361,7,Service,6,General,12010591,OFFICE CONTAINER,180,1
+21-May-16,25T forklift welds to be cut and re-welded,Cracks must be cut and re-welded.,Forklift welded,J115,1190,2,Repair,6.2,Other,10530780,FORKLIFT NO.3; 2.5T;SACK STORE ROOM,454,4
+21-May-16,Device guiding the load-chain down in the chain-box is bend,"End-stop switch on load chain is missing. New to be installed.
+Device for guiding the load-chain down in the chain-box is bent causing the chain to run outside the box. To be repaired.",Jo done,J115,1190,2,Repair,6.2,Other,10319311,CHAIN DRIVE; RAW WATER PUMP NO.1,721,1
+21-May-16,5T forklift welds to be cut and re-welded,Welds to be cut and re-welded by certified welder.,Work performed on forklift.,J115,1190,2,Repair,6.2,Other,10360035,FORKLIFT NO.2; 5T;MAIN DECK,454,7
+09-Feb-16,G1-FASTLINE STABILIZER ROOLERS FAIL,"DHO025 15-02-16. 1) The upper Fastline stabilzer had jammed rollers as well. 4 out of 8 rollers had been replaced on upper in week 5. We did not have more rollers. We now have got a new stabilzer onboard received from Interceptor. This should be mounted on the Upper level. 
+2) We have also ordered 2 ea. new type of Stabilzers on warrenty. Once they are arrived they should be mounted.
+3) Once the new type of stabilzers is installed we will make a wizard and create a job for replacement of rollers on a fixed schedule and during that evaluate if service interval can be increased. So fare the stabilzers we are using now was lasting only 8 month of operation. Same issue on the sister rigs.
+13.06.16 DHO025: 1 ea. Stabilizer of new type is received. Dont know how. Those we have ordered is still to be delivered? Still the assories needed to mount (Mainte. Materi req. 10500000823) is not received. If case needed before this arrive then we can use old.","G1-FASTLINE STABILIZER ROOLERS FAIL
+not posible to lubricate
+change 4 roller (used 4 used ones from the first stabilizer)",J115,1190,2,Repair,1,General,21000028,FASTLINE STABILIZER ARRANGEMENT - UPPER - LEVEL 9,301,1
+08-Feb-16,G1 Preload Tank 16SB crack and dents in Beam B6,"28.08.16.Pending response from the technical organization of approved repair proceduresPostponed.BHE030
+18.02.2017 Repair completed. Awaiting report to attach before we can close job. Postponed  FKJ014","Work covered on WO 5003 / PO 13807
+Work done. Approved condition of class 1 yealy DNV.  HBI+SUP INT",J115,1190,12,Other,6.2,Other,10359886,TANK; 16PS;PRELOAD;ABOVE BOTTOM;PORT,285,1
+01-Aug-15,G1: Damaged locking device on doors,"MBE 20.02: a lot of doors has been rapaired and upgrade with new doorlocks and closer e.g. all shaker doors repaired . Operation lined added  OMC are assisting with this scope
+DHO025: 25/3-16: OMC ordered out for this Project as this is also related to DNV findings at last survey.
+Attached DNV report item CC2 is related to the doors. 
+OMC is ordered out to do the mapping and also the repair of the doors. We have various numbers of door-locks on Project shelf. for the Project. But once mapping is done we need to send a plan to Tech.Superintendent for fwd to DNV.
+
+OMC finished reparing all doors exepct at drillfloor where sliding door is needed.
+See attached door report. Report+ arrange plan + door list are mailed to Tech sup. Mikkel for DNV approval. Still awaiting answer. When repairs are accepted this WO should be closed. All OMC work hours is registered in this WO.
+
+Door lock cylinders placed in P-tk room 13.7-16 TRA",G1: Damaged locking device on doors,J115,1190,1,Replace,1,General,10788661,INTERNAL DOORS; ACCOMODATION - GROUP,512,3
+19-Feb-16,G1 Resilient Mounts on Engines starting to collapse,"PP - Asked Mayumi for status 1/6-16 TRA
+
+12.09.16 - Mail to Mayumi for status (cc to Erik Bulow).  MCC061
+19.02.16 - Mailed Erik Bulow for any updates. Attached DHO025",Will be followed up by TO (technical organisation) HBI + SUP INT.,J115,1190,3,Modify,1,General,10322136,MAIN DIESEL ENGINE NO.1,651,26
+09-Apr-16,[488/08] Clean oil in jacking gears. Cessation BB,"All rig related jobs regarding bullet [488/08] in attached SOW to be connected as sons to this WO
+Final reports from 3rd parties to be hooked up to this WO.
+Pictures and temporary information to be filed in right sub folder under T:\02 Everyone\Cessation 2016","All rig related jobs regarding bullet [488/08] in attached SOW to be connected as sons to this WO
+Final reports from 3rd parties to be hooked up to this WO.
+Pictures and temporary information to be filed in right sub folder under T:\02 Everyone\Cessation 2016",J106,5117,12,Other,1,General,10614217,JACKING SYSTEM - GROUP,488,8
+14-Oct-16,Paintproject (2016) ref. KH-290916-1422-1 priority 2 scope,Paint project 2016. Ref. KH-290916-1422-1 (Attached) Priority 2 scope with adjustments.,Paintproject (2016) ref. KH-290916-1422-1 priority 2 scope,J113,1435,12,Other,6,General,11177020,PAINT STORE; STBD AFT,253,2
+29-Mar-16,Preload tanks repair scope,.,.,J114,1435,1,Replace,1,General,10862254,TANK; 16PS;PRELOAD;ABOVE BOTTOM;PORT,285,1
+15-Apr-16,WOP Order 8x10 meter  hoses for buner booms, Order 8X10 meter  hoses for buner booms,.,J114,1435,12,Other,6.3,Unknown,10860704,PIPING; WELL TESTING SYSTEM,372,2
+20-Aug-17,Send in 67 joint of 5.5 TT550 Drill pipe for insp.Req1060005,"Send in 67 joint of 5.5"" drill pipe for NS2 inspection due to rotating hours (12600)
+REQ: 10600053028",.,J114,1435,12,Other,1,General,10860674,DRILL PIPE SYSTEM,351,16
+29-Nov-16,"Send in 295 jt of 5 1/2"" TT550 (R3) Drill Pipe for NS2 inspe","295 jts TT550 drill pipe. Inspection to NS2 standard and re-certification.
+Drill pipes to be stored at Maersk Drilling Pipe Yard upon completion of inspection",.,J114,1435,12,Other,6.2,Other,10860674,DRILL PIPE SYSTEM,351,16
+12-Oct-16,Send in drill pipe for re-certification,126 jts TT550 drill pipe. Inspection to NS2 standard and re-certification.,Drillpipe sent in for inspection to Ns 2 standard.,J114,1435,9,Inspection,6.2,Other,10860674,DRILL PIPE SYSTEM,351,16
+30-Oct-17,"Order 45 jts 5 1/2"" TT550 Maersk drill  pipe.","Send out 45 jts 5 1/2"" TT550 Maersk drill pipe for well operations.",already reported,J114,1435,12,Other,6.2,Other,10860674,DRILL PIPE SYSTEM,351,16
+21-Oct-16,"Send in 11 jt 5 1/2"" Hwdp & 8 jt 8 1/4"" DC f/Inspect",Tubulars to be inspected to NS-2 Standard,.,J114,1435,12,Other,6.2,Other,10860674,DRILL PIPE SYSTEM,351,16
+04-Feb-18,Send in 68 joint of 5.5 Drill pipe for inspection,"68 joints for inspection to NS2 Standard due to rotating hours
+
+Pur Req 10600053988",DP sent in for inspection.,J114,1435,9,Inspection,6,General,10860674,DRILL PIPE SYSTEM,351,16
+18-Dec-17,"Send in 99 jt 5.5"" TT550 Dp f/inspection.Ref Req:10600053698","Inspect 99 jt 5.5"" TT550 dp to NS2 Standard. 
+Drillpipes to be stored at Pipeyard upon completion of inspection","5.5"" TT550 Dp for inspection to NS2 Standard as they have reached their inspection criteria (footage).",J114,1435,9,Inspection,2.4,Wear,10860674,DRILL PIPE SYSTEM,351,16
+30-Nov-16,"Send in 55 jt 4"" Drill Pipe for NS2 Inspection","55 joints of DN (Maersk Managed) 4"" (R3) TT390 drill pipe to be inspected to NS2 Standard.
+Drillpipes to be stored at the Maersk Drilling Pipe Yard upon completion of inspection.","55 jts 4"" drill pipe to be inspected to NS2 standard.",J114,1435,7,Service,6,General,10860674,DRILL PIPE SYSTEM,351,16
+21-Jul-17,"WOP:Order 4"" DP for Nordfjellet",Order additional 4 inch drill pipe for Nordfjellet well.,Drill Pipe Received.,J114,1435,12,Other,6.1,No mechanism found,10860674,DRILL PIPE SYSTEM,351,16
+09-Aug-17,WOP: Order out 30 jt R3 TT550 DP,In preparation of Nordfjellet well,Tubulars received.,J114,1435,12,Other,6.1,No mechanism found,10860674,DRILL PIPE SYSTEM,351,16
+04-Oct-17,"Send in 60 joints 4"" drill pipe for storage. req10600053260","Send in 60 joints 4"" drill pipe for storage
+
+req 10600053260",.,J114,1435,12,Other,1,General,10860674,DRILL PIPE SYSTEM,351,16
+22-Feb-18,"Send in 30 joints 6 5/8"" HWDP F. inspection",Send in 30 ea 6 5/8 HWDP for inspection after use on rig. To be stored at yard.,Pipe sent in,J114,1435,9,Inspection,2.4,Wear,10860675,HEAVY WEIGHT DRILL PIPES - GROUP,351,3
+02-Jun-16,Manrider emg stop missing tag,"Manrider drillfloor aft emg stop missing tag
+SIGN: EMRGENCY STOP to be made by Motorman / ME",Correction,J105,5361,12,Other,6.2,Other,12011239,WINCH; MANRIDER; DRILL FLOOR; AFT NEW,365,3
+02-Jun-16,ID Missing on chainsling,"Install correct ID tag on chain sling on winch correct tag is 
+WCL-2011-00763-6 
+also confirm proper spooling",corrective,J105,5361,12,Other,6.2,Other,11003187,WINCH NO.2; UTILITY 6 TON;GREEN;DRILL FLOOR WINCH PLATFORM,365,6
+02-Jun-16,Investigate small leak on winch,Investigate small leak on wich,.,J105,5361,2,Repair,1,General,11003188,WINCH; 6T;CELLAR DECK,365,1
+15-Jul-16,Change out lower section of choke valves,"Strip down lower section of choke valves and rebuildt with new valves from WOM. New valves is with inconel.
+Following valves is changed: C-1 C-2 C-3 C-4 C-5 C-7 C-8 C-11 C-12 C-13 C-14 C-15 C-16
+
+HNS 02.08.2016 Have asked RRI for status with instalation in structure but due to J105 and J105P they have faced some problems which logistic need to assist with.","Lower section of choke valve exept C-6 has been replaced.
+New installed valves is with Inconel.",J105,5361,1,Replace,6.2,Other,11003160,CHOKE&KILL MANIFOLD,336,7
+08-Jun-16,Repair of preload tanks 14 & 16,"Planning Cutting Welding NDT Sandblasting and painting.
+To be performed by external company Acher.
+20-10-2016: Hours for the first period with Apply onboard added to time report tab with correct PO line number FKJ014",Job completed. Hours issued,J115,1190,3,Modify,6.2,Other,10322314,TANKS; PRELOAD - GROUP,285,1
+11-Aug-16,Stb. spudcan repair,The crack was grinded out and post NDT carried out. Report send to ABS.,"During the UWILD a crack was found on SB leg spudcan tip. The crack was grinded out and post NDT carried out. Report send to ABS. ABS approved the remedy action taken. Spudcan tips shall be continued monitored with ET at subsequent UWILDs.”
+Report attached p. 44-58.
+Total cost 36000 USD",J112,3350,2,Repair,2.5,Breakage,11950077,SPUDCAN; STBD LEG,226,1
+08-Sep-16,Tetra basestation. New freq&Renewal of certificate,"Obtain new certificate from NKOM with new freq.
+Order and instal new freq.
+PR 10500050335 for certificate fee
+PR 10500050336 for installation
+14.10.2016 Senior management have desided to claim 'first here' rights and insist that Flotel Endurance has to change freq. Wireless Communications in Stavanger have them ready but the desition on what to do is not on our desk. Postpone WO untill desition have been made. Maintain PR/PO in case of any charge from Wireless Communication for hours spent. FKJ014
+10-11-2016. New freq handed over to Flotel Endurance. We are keeping our old ones and our certificates has been updated with Gina Krog location. Closed FKJ014","MIG has obtained a new license from NKOM.
+We will keep the original freq. therefore the operation line canclled.",J115,1190,12,Other,6.2,Other,10321934,TETRA RADIO COMMUNICATION SYSTEM,424,7
+31-Mar-17,VHF radio defect fast rescue boat,"Send radio in for repair or buy new
+
+31.03.17 CVA 
+Contacted wireless communication for repair it is not possible to get parts for this radio anymore so new must be oreder
+have got quote for new and created wizard see GLB10500002402
+FKJ014: Seperate PR made due to connected activity issues. PR 10500051759",Radio ordered and replaced,J115,1190,1,Replace,6.2,Other,10322018,RESCUE BOAT,501,7
+21-Mar-17,WOP Send in fall arrestors for yearly Service,"Yearly service of fall arrester
+Get quote and make seperate PR code 6 for service ( PR: 10500051797)
+Send in for service.
+Fall arrestors:
+Rebel Protect 15mtr S/N 035396
+Rebel Protect 15mtr S/N 035401
+MSA Workman 50' Self retracting Lanyard S/N 130716030
+Miller Turbo lite 15 mtr Ins ref 663387 - Deck 8
+Miller Turbo lite 15 mtr Ins ref 704631 - HYD 14
+Miller Falcon 15 mtr S/N 20561327/006
+Miller Falcon 15 mtr S/N 20561327/008
+Miller Falcon 15 mtr S/N 20561327/009
+Miller Falcon 15 mtr S/N 20561327/010
+
+30-05-2017: Waiting for return of arrester. KLA110",Recieved the fall arrestors. Placed on main deck.,J115,1190,12,Other,6.2,Other,10788743,SAFETY DEVICES; PERSONNEL LIFT - GROUP,561,1
+27-Jan-17,LGS 2017 Westcon,"Annual Lifting Gear survey 2017  performed by Westcon
+25.03.2017 Onboard inspection completed by Westcon. All climbing jobs was conducted by CAN climbers and CAN´s equipment and should not be billed by Westcon. Still waiting on final report and update in the Weston online portal. Still not completed. BJO094",LGS 2017 Westcon,J115,1190,12,Other,6.2,Other,10321982,LIFTING GEAR,455,2
+17-Jul-17,"Annual service personel transport basket ""esvagt baskets""","Send in Esvagt basket with Serial number: 131213-03-186 for annual service (Due 1/8-2017)
+Send in Esvagt basket with Serial number: 180610-04-94 for annual service (Due 1/11-2017) /Reg No:10500053213
+31.10.2017: 180610-04-94 sent in FKJ014
+25.11.2017 Not recieved. Still located in Dusavik. See mail. BJO094",Serviced and recieved.,J115,1190,7,Service,6.2,Other,10788647,LIFE SAVING EQUIPMENT - GROUP,503,4
+19-Jun-17,Parts for Helifuel system after Imenco Annual findings,"Change the 2 ea elbows and reducing nipple with stainless steel.
+Req: 10500052343",Items installed,J115,1190,5,Refit,6.2,Other,10322075,HELIFUEL STORAGE TANK SYSTEM,566,1
+05-Aug-17,Issue items on PO43061,Issue items on PO43061,Received and issued to Tetra cabinet,J115,1190,12,Other,6.2,Other,10321934,TETRA RADIO COMMUNICATION SYSTEM,424,7
+17-Oct-17,Chain with hooks and plain hooks,Order hooks for 6T tuggers,Chain with hooks and plain hooks,J115,1190,12,Other,4,General,10359937,SLING STORE,253,1
+07-Oct-16,Replace the anodes - STBD,Anodes to be replaced,old anodes depleted and replaced with new,J106,5117,1,Replace,2.3,Erosion,10607452,LEG; STBD,226,4
+22-Nov-16,Cleaning of Bilge tank,Service company to clean blige tank.,Tank is cleaned,J102,11662,12,Other,5.2,Contamination,10010132,TANK NO.1; BILGE;C26,288,2
+23-Feb-17,POB for BOP poslock and operator cylinder testing,"order subsea flange adapters which are required to do poslock testing and ram operator cylinder pressure testing
+
+POB 2 ea 1-7/8  - 1 1/2"" Adapters received. Placed in BOX 8.  06.09.2017.    OBJ","seal subs ordered and received
+REMAINING parts WILL BE ordered on WO 11300001258",J116,825,12,Other,6.2,Other,10359204,BOP STACK SYSTEM,331,11
+06-Mar-17,WOP Salinity/Conductivity transmitter Rehardning filter #2,"Order new sensor and install
+
+Wizard has been made GLB11300000262","Grinded out inner welding to avoid sensor from breaking.
+Mounted new sensor. :",J116,825,12,Other,1.3,Clearance/ alignment failure,10562725,SENSOR; SALINITY,581,1
+25-Feb-17,Change luffing wire on crane 1 (project work . NOV),Change luffing wire. This will be done by NOV crane op to assist.,Change luffing wire on crane 1 (project work . NOV),J116,825,1,Replace,4,General,10361317,WIRES; DK CRANE NO.1 - GROUP,361,1
+24-Feb-17,WOP air hose and ferrules,order air hoses and low pressure ferrules are needed for general use around the rig,Ferrules recieved and stored in Hyd office on top of cuboard boxes marked with air hose ferrules,J116,825,12,Other,1,General,10359576,PIPING; COMPRESSED AIR SYSTEM,733,1
+22-Feb-17,POB: Parts for Accumulator test.,"Kit for checking the BOP accumulator N2 pressure.
+ORK002 07.04.2017. end date postponed due to WOP
+27-04-17 KWE012: PARTS ARRIVED AND PLACED IN CUPBOARD IN BOP CONTROL ROOM",Stored in Accumulator room,J116,825,12,Other,6.2,Other,10570021,ACCUMULATOR CHARGING KIT,314,2
+14-Mar-17,"POB: Fittings and piping for ""gas watch"" test.","Make test equipment for ""gas watch""
+PR: 11300265270
+
+Parts handed over to Hydraulic. 21.08.2017 OBJ009","Connect up new horn and beacon. 
+Simulated",J116,825,2,Repair,1,General,10399322,SENSOR; GAS WATCH,311,2
+14-Feb-17,POB Heat recovery expansion tank showing 100%. Not correct.,"Sensor to be removed for inspection of possible faults.
+13.08.2017 ORK002 Parts placed in Box 6.",wizard mad for transminter but not for display do to bad internet conection,J116,825,1,Replace,3.3,Faulty signal/indication/alarm,10368689,GAUGE; LEVEL;EXPANSION TANK NO.4,577,1
+23-Feb-17,WOP ferrules for hydraulic hoses in all sizes,order ferrules in all sizes for hydraulic hoses,WOP ferrules for hydraulic hoses in all sizes,J116,825,12,Other,3,General,10359676,HYDRAULIC POWER UNIT; HPU;DRILLING,385,7
+25-Feb-17,WOP:  Tool bag for inter derrick with tools and maintenance.,.,Recieved,J116,825,12,Other,6.1,No mechanism found,10634416,PIPELINE; HYD OIL SUPPLY;DERRICK,385,1
+23-Feb-17,WOP hydraulic hose for general use,order hydraulic hose of all sizes,Recieved hoses,J116,825,12,Other,6.1,No mechanism found,10359676,HYDRAULIC POWER UNIT; HPU;DRILLING,385,7
+17-Apr-17,WOP replace fan,"replace fan capacitors and terminal board
+24.05.2017 ORK002 Parts recived and placed in el/et shop in hull",done,J116,825,2,Repair,1,General,10400089,DISHWASHER; C-DK;A409,551,2
+07-Apr-17,WOP spare sewage vacuum pump and motor,"Spare sewage vacuum pump and motor ordered for back up when one of the pump goes down.
+05.08.2017 TBP010: On TO 6990 but not unpacked yet. Hence pp req finish date 1 week.",Spare sewage vacuum pump and motor,J116,825,12,Other,6.2,Other,10362016,SEWAGE VACUUM SYSTEM; HULL,582,2
+07-Mar-17,WOP: Tool locker for ea crane with tools.,"Install locker with tools in ea crane.
+Lockers are installed in ea crane.
+Waiting tools for the lockers.","Lockers are installed in ea crane.
+Waiting tools for the lockers.",J116,825,5,Refit,1,General,10361449,DECK CRANE STRUCTURE SYSTEM,361,1
+16-Feb-17,POB Gauge/plug is broken please see attachment.,"Order a new and replaced Gauge PR 11300264331 + 332
+Bottle/cyl no. 2 813-F4/CY202 new pressure gauge to be fitted. 
+Bottle/cyl no. 7 813-F4/CY207 new pressure gauge and burst disc to be fitted bottle to be re-charged.
+See attached charging procedure.
+Pressure gauges installed.
+ 813-F4/CY207 need to recharged its only 160 bar.",broken plug,J116,825,2,Repair,1,General,10359612,WATER MIST SYSTEM,813,2
+09-Apr-17,WOP - TEST PUMP FOR WATER,Order 2 pce test pumps to be orderd for the mechanical workshop,"Pumps are ordered
+Pumps arrived - placed in mech workshop",J116,825,12,Other,6.2,Other,10359340,WORKSHOP TOOLS; MECHANICAL,441,13
+04-Mar-17,WOP grease filling pumps for slew grease system,order grease pumps etc.,improvment,J116,825,3,Modify,1,General,10359260,DECK CRANE NO.1; PORT FWD,361,6
+05-Mar-17,WOP. Replace filter insert.,"WOP. Order new filter insert. 10 pcs ordered. Mat. man to put as stock item when we receive the filters.
+Replace filter insert.
+
+04.04.2017 ORK002. End date postponed due to WOP.","Filters ordered by Mat. man.
+Filter is replaced.",J116,825,1,Replace,2.4,Wear,10559761,HIGH PRESSURE WASHDOWN UNIT NO.1; HULL,444,6
+27-Mar-17,WAR Valve positioner faulty for RW P/P 1 & 3   discharge v/v,"12.07.2017 - 4ea positioner rec on transport order 6356. M/E HCH052
+19.07.2017. 1 positionor recieved for Warrenty case. Been fitted by Op.Tech Allan.
+Also one fitted on rw pump valve 3.
+The last 3 will be created as stock item.
+Have issued all 4 for being able to closed WO. Parts will get reqounted and updated by matman. M/E HCH052","Positioner to be changed
+
+Positioner on 721W1PTV003 changed
+Positioner on 721W1PTV001 changed NOT CALIBRATED",J116,825,1,Replace,4,General,10408817,POSITIONER; PTV001;DISCHARGE;RW PMP NO.1,721,1
+03-Apr-17,Change Door Lock Cylinder on both doors to Hospital.,"Change Door Lock Cylinder on both doors to Hospital.
+13.05.2017 ORK002 end date postponed stil WOP
+08.07.2017 BAB WIZ INC0139733 for help finalise this wo.
+04.08.2017 ORK End date PP",Locks changed.,J116,825,1,Replace,1,General,10400500,DOOR NO.A113-1; MAIN DECK;B-15,512,1
+12-Apr-17,WOP Lower jaw back up door cylinder damaged,Lower jaw back up door cylinder damaged,WOP Lower jaw back up door cylinder damaged,J116,825,12,Other,1,General,10581260,CASING TONG; TOOL FRAME;KT-14000,342,2
+11-Apr-17,Order various tools for mechanical workshop.,"Order tools.
+Please issue if you know this has arrived.",Some tools arrived some canceled.,J116,825,12,Other,6.2,Other,10359340,WORKSHOP TOOLS; MECHANICAL,441,13
+02-Apr-17,POB Install protective Flexbags on skidding cylinders,"Install protective Flexbags on skidding cylinders
+Wrong delivered new will come.
+28.12.2017 New bags received. PO33562. TO10058. Project shelf E. M/E HCH052",Install protective flexibags on skidding cylinders.,J116,825,3,Modify,3,General,10563078,HYDRAULIC SKIDDING CYLINDER SYSTEM,489,1
+12-Apr-17,WOP Levelmaster H8 for stock,WOP Levelmaster H8 for stock,.,J116,825,1,Replace,1,General,10359585,TANK GAUGING SYSTEM,797,1
+22-Feb-17,WOP/ POB: Portable cutting set for fire stations,"Portable cutting set for all four fire stations
+
+PO made",POB,J116,825,12,Other,1,General,10559608,FIRE STATION; C102A,247,1
+04-Apr-17,WAR POB -Helideck floodlight not working.,"Internal power converter have burned tracks on PCB. New lamp or internal electronics has to be purchased.
+01.07.2017 ORK002 New floodlight recieved handed over to electrician.",.,J116,825,12,Other,6.2,Other,10557780,FLOODLIGHT; LOOP 2,892,1
+25-Feb-17,WOP tools for pipe bending machine,order a set of tools for the pipe bending machine,Tool stored at the machine.,J116,825,12,Other,6.3,Unknown,10359693,OUTFITTING; HYD/MECHANICS WORKSHOP,446,9
+15-Feb-17,Coupling needs to be changed,"Change coupling complete due to wear on steel parts. See attached photo
+5/3-2017  TSL have ordered 3 couplings on WO 11300000114. PR 11300264001. PO 31390.
+25.04.2017 Coupling PN 1153112 onboard and change out can take place.
+08.05.2017 All parts onboard. WO closed. M/E HCH052",Elastomer insert for coupling changed and aligment of pump and motor.,J116,825,2,Repair,1.5,Looseness,10360786,PUMP NO.2; CENTRIF;TRIP TANK NO.1&2,326,2
+11-Apr-17,POB - ORDER VACUUM CLEANE FOR PCs,Order vacuum cleaner,27.05.2017 ORK Cleaner recieved placed in Et / El shop in Hull,J116,825,12,Other,1,General,10364198,ELECTRICAL WORKSHOP; M113,271,2
+11-Apr-17,Replace oil level plug with sight glass.,"Replace plugs with sight glasses on all the gears for the hose reels.
+I have ordered some extra glasses to be used for the gears on the swarf conveyors.","Parts ordered 10/04-17
+Level plugs replaced with sight glass.
+Level plugs on gears for swarf belt is also replaced.",J116,825,1,Replace,6.2,Other,10363477,HOSE REEL STATION SYSTEM,329,1
+25-Mar-17,WOP order hose fittings for general use on drill. equipment.,Order fittings for use on rigfloor.,Recieved,J116,825,1,Replace,1,General,10359693,OUTFITTING; HYD/MECHANICS WORKSHOP,446,9
+20-Mar-17,POB: Coupling cover on the DW.,"Replace old type cover to new type.
+14.05.2017 ORK002 covers placed in hyd work shop",Covers has been installed.,J116,825,1,Replace,1,General,10359185,DRAWWORKS,312,3
+17-Apr-17,WOP Flange protection not installed on all CW flanges,17.04.2017 BAB013 Have found part number for no spray tape same as used on main engine fuel pipings. Part number 1146735. Wiz created to asign to J116. Case no GLB11300000482. Order one ea when available. The ones missing flange protection has been temporarily fitted with aluminum tape. This tape is to be taken off and replaced with no spray tape. 3 flanges in cantilever trafo room.,.,J116,825,N/A,Not Defined or Applicable,N/A,Not Defined or Applicable,10359485,TRANSFORMERS SYSTEM,865,1
+14-Sep-17,Replace Element in Lower Annular (TPC),Rebuild Lower Annular operator with new seals and element,This WO is for admin purpose only and used to issue the annular element from project.,D101,1515,12,Other,1,General,11896012,"ANNULAR BOP; LOWER;18 3/4"";10K",331,2
+14-Sep-17,Replace Element in Upper Annular (TPC),Replace Element in Upper Annular (TPC),Replace Upper Annular element,D101,1515,1,Replace,6.2,Other,11896011,"ANNULAR BOP; UPPER;18 3/4"";10K",331,2
+07-Nov-16,Change transfer pump stb blunox,"New pump to be ordered and installed
+04.12.2016 SHA210 Pump ordered.",new pump/motor installed,J105,5361,1,Replace,1,General,12116102,BLUNOX SCR SYS; STBD SIDE,744,10
+26-Sep-17,WOP Order auger shaft for conveyor 2,"Order complete auger shaft assembly for conveyor/
+Ager shafts on conveyor 2 is in bad condition. Nominal diameter has been radical reduced due to wear and tear. This wear and tear is also causing auger tips to start collapsing during heavy 
+load on conveyors.
+03.10.2017 WO 10300005376 created for ordering outstanding 6 augers for conveyor 3+4 and conveyor 2","Order complete auger shaft assembly for conveyor/
+Ager shafts on conveyor 2 is in bad condition. Nominal diameter has been radical reduced due to wear and tear. This wear and tear is also causing auger tips to start collapsing during heavy 
+load on conveyors.
+03.10.2017 WO 10300005376 created for ordering outstanding 6 augers for conveyor 3+4 and conveyor 2",J113,1435,1,Replace,2.4,Wear,11195965,CONVEYOR NO.2; SCREW;CUTTING,326,9
+20-Apr-17,Get quote from NOV for new set of polypenco plates,Get a quote from NOV for a new set of polypenco plates for our catwalk.,Polypenco plates replaced by drilling and hydraulic.,J113,1435,1,Replace,2.4,Wear,11160925,PIPEHANDLING CATWALK SHUTTLE SYSTEM,341,17
+19-Sep-17,WO for Siemens/Halvorsen service enginners Control card exch,"WO for issuing service man hours.
+PO 30223
+Purchase orders made from J105P onshore?
+
+19.04.2017 SBE137 Siemens has installed/replaced cards on mud pumps. Still outstanding on drawwork c-d and TDS. See attached service report.
+14-05-2017 TBP010: All hours have been issued on a J105P WO and nown have to be pulled back. Awaitning answer from IFS gure ref below insert from mail string and moved date accordingly.
+
+Problem here is that all hours for both visits have already been issued to the J105P WO and the PO auto closed when filled up with hours. Meaning I do not have a PO to issue from if I make a new J105 WO.
+If I make a new PO to issue hours from – it will also be a mess since the invoices from both Halvorsen & Siemens will only be pointed at the “SPS PO’s”. I am in contact with Joy Marie Del Rosario – to see if she can assist. If not I suggest Igoris make an internal invoice against J105.
+
+HNS 20.05.2017 Awaiting reply","WO for issuing service man hours.
+PO 30223",J105,5361,12,Other,6.2,Other,11006308,DRILL'G DRIVE; 690V;MP/AW,867,5
+29-Dec-17,WO created for deck paint project,WO created for issuing paint issued during deck project,spares booked out against this wo,S103,3169,1,Replace,1,General,12106655,MAIN DECK STBD FORWARD,152,1
+30-Mar-17,repair door to drillfloor workshop,See M/E Mail in outlook to 08-06-2017 15:50,DOOR HAS BEEN FITTED,J115,1190,1,Replace,2,General,10788664,EXTERNAL DOORS; NON TYPE - GROUP,514,6
+07-Dec-17,Issue 2 pcs MPR fron packers due to project ID,Issue 2 pcs MPR fron packers due to project ID,Issue 2 pcs MPR fron packers due to project ID,S103,3169,1,Replace,1,General,11136419,"BONNET; 15 1/2""; 3K",331,2
+29-Dec-17,Motive winch spare parts to book out,WO created to book out TPC spare parts for Motive winches,spares booked out against this wo,S103,3169,1,Replace,1,General,11973790,UTILITY WINCHES - GROUP,365,1
+13-Jun-17,Connect to Project Activity- Purchase of Test Sub,"Quote Attached
+JBL 10/10-17: Still WOP; moved to 10/10-17.",NC 40 cross over for DSV test stand purchased and recieved onboard.,J108,3626,2,Repair,1.6,Sticking,12140383,TEST STAND; DSV,337,3
+01-Jan-18,WO for Wall information screens and brackets,WO forpurchasing and issuing smart screens and brackets for rig offices. Order 53236,PO created,S103,3169,1,Replace,1,General,11147994,COMPUTERS/LAN/OFFICE EQUIPMENT - GROUP,542,7
+13-Feb-17,Major overhaul mud pump no 3 2017,"Service personnel to overhaul pump primo 2017.
+Parts already ordered and stored onshore in Stavanger.
+
+PR 10100003382 created for SOS consumables
+PR 357929 created for SOS rental equipment
+SOS have been ordered out on the PO: 29394 and Wirth have been ordered out on Po: 29142 for the overhaul of the mud pump.",Disconnect MP #3 and AUX,J105,5361,10,Overhaul,6,General,11003127,MUD PUMP NO.3; HIGH PRESSURE;MUD SUPPLY,325,35
+22-Nov-17,Install IFS part 1152121 in Structure under Object 11982727,to install in structure,a,S103,3169,1,Replace,1,General,11982727,ELEVATOR LINKS&BAILS - GROUP,345,3
+18-May-17,April-May 2017_Deep Water Subsea Third Party,Complete EOW scope to bring us up to date on PMs.,WO only raised to track manhours manhours issued against PO,D101,1515,12,Other,6.2,Other,11247984,"BOP; 18 3/4"";15000PSI",331,12
+11-Mar-17,Renew Pod relief valves (Blue and Yellow),Replace Blue Pod relief valve with new. 1931301-11,Blue Pod relief valve to be replaced,D101,1515,1,Replace,1.1,Leakage,11233697,MUX CONTROL POD SYSTEM,332,3
+03-Apr-17,2017 CVI 10Y SPS Inspect sea chests,Inspect the sea chests as per class requirements as per 5Y SPS.,Inspection of sea chests and replacement of anodes,J110,3626,9,Inspection,1,General,10057354,SEA CHESTS - GROUP,262,1
+09-Jul-17,Sounding pipes repair,Sounding pipes repair,"Repairs done by Keppel Fels on PO 36396
+Parts from MAK on PO 36548",J110,3626,2,Repair,3.2,No signal/indication/alarm,11845194,SW PRELOAD TANKS - GROUP,285,1
+12-Apr-17,2017 CVI 10Y SPS Add replace load cell on fwd leg B1,Replace faulty load sensor on fwd. leg B1,Faulty load sensor on fwd. leg B1 replaced by NOV-BLM.,J110,3626,1,Replace,3.2,No signal/indication/alarm,11847605,JACKING UNIT; TOP RIGHT B1;CHRD B;FWD,488,1
+26-May-17,WO to cover CO-cost for 1028536 packer,"WO to cover packer cost for replacement ref CO 1140000010
+4 ea packers installed ref WO 11400000222
+4 ea packers installed ref WO 11400000221
+6 ea packers installed before IFS go live Issued app August 2016","WO to cover packer cost for replacement ref CO 1140000010
+4 ea packers installed ref WO 11400000222
+4 ea packers installed ref WO 11400000221
+6 ea packers installed before IFS go live Issued app August 2016",D101,1515,12,Other,6.2,Other,11247984,"BOP; 18 3/4"";15000PSI",331,12
+22-Sep-17,Order required seat puller heads for heavy duty seat puller,No puller heads for heavy duty seat puller odered required heads.,Order required seat puller heads for heavy duty seat puller,J117,825,12,Other,1,General,11420700,HP MUD PUMP NO.1,325,23
+10-Apr-17,Create TPC for Purchase of No 3 Rotary Bushings-Grooved,"Create TPC to purchase No 3 Rotary Insert Bushings Grooved for Completion purposes
+Project Activity Code - 100014251
+Wizard Created for Part - 1169682",TPC signed and bowls added to stock,J108,3626,12,Other,6.2,Other,11775237,BUSHING; MASTER,313,1
+21-Dec-17,New hang off wire installed with shackle,Install new hang off wire,"Wo completed with reference to mail recieved Wed 21-Mar-18 06:52 from Michael Ingvardsen. See below extract
+Hi Erik
+
+The Breather is installed on the luffing gears and the hang off wires the same.
+The should be removed/consumed for the job.
+
+Br.
+Michael Ingvardsen",J109,3626,N/A,Not Defined or Applicable,N/A,Not Defined or Applicable,11574638,RESCUE BOAT - GROUP,501,1
+04-Feb-18,issue willden pump received on PO. 41067 (TPC),issue willden pump received on PO. 41067 (TPC),issue willden pump received on PO. 41067 (TPC),S103,3169,12,Other,1,General,11981998,"PUMP; DIAPH;2"" WILDEN- MUD PIT DRAINS",806,1
+26-Nov-17,Install new riser adapter in structure,Install new riser adapter in structure,Install new riser adapter in structure,S103,3169,1,Replace,1,General,11146207,LOWER MARINE RISER PACKAGE,331,6
+07-Jun-17,Replace Lower Choke Failsafe Assembly,Replace Lower Choke Failsafe Assembly with new.,Replace Lower Choke Valve Assembly,D101,1515,1,Replace,2.3,Erosion,10201838,DUAL GATE VALVES; FAIL SAFE - GROUP,331,7
+26-Nov-17,Install new diverter in structure,Install new diverter in structure,Install new diverter in structure,S103,3169,1,Replace,1,General,12177827,DIVERTER SYSTEM - GROUP,334,2
+04-Jun-17,Install New Toolframe in Structure,SPS Project Go Away Install New toolframe TF 975 in structure,new tool frame installed,D101,1515,1,Replace,1,General,11220805,HYDRATONG; ARN 200; MAIN WELL,342,54
+27-Nov-17,Install new annular in structure,Install new annulars in structure,Install new annulars in structure,S103,3169,1,Replace,1,General,11146207,LOWER MARINE RISER PACKAGE,331,6
+26-Nov-17,Install new riser connector into structure,Install new riser connector into structure,Install new riser connector into structure,S103,3169,1,Replace,1,General,11146207,LOWER MARINE RISER PACKAGE,331,6
+25-Nov-17,Install new WHC in structure,Install new WHC in structure,Install new WHC in structure,S103,3169,1,Replace,6.3,Unknown,11146251,LOWER BOP ASSEMBLY,331,2
+07-Dec-17,WO for issuing Telescopic Cylinder,This WO created only for issuing parts on Project Activity code.,Complete IBW plan,S103,3169,1,Replace,1.1,Leakage,11973364,PIPEHANDLING KNUCKLE BOOM CRANE (PDPH),342,13
+27-Jan-18,Valve failed to test required rebuilding,Repair valve and retest.,TIW valve failed pressure test mechanic stripped and rebuilt the valve pressure test took place and passed test to 14800psi,S103,3169,10,Overhaul,1.1,Leakage,12104626,"VLV; TIW VX75;5 7/8"" PIN AND BOX",337,1
+19-Sep-17,5Y Replace NT2 connector in structure after 5Y,WO for Replace NT2 connector in structure after 5Y. NT2 connector has been dismantled and installed new certified NT2 connector.,Changed NT-2 connector instructure and real life. Updated structure accordingly and started maintenance. Attached documentation onbj ID,J105,5361,12,Other,6.3,Unknown,11004685,"BOP STACK; 18 3/4""",331,12
+14-Jan-16, Poor condition of Preload tank 19 SB,"28-10-2016: Mail from Mayumi states that the guarantee claim has been rejected. Cost is now on rig. We have to get quotes from several companies for sandblasting and painting of tank. After quote received the cost has to be added to budget for 2018. KLA110
+09-11-2016: Have been in the tank to take photos and meassurements.Area in right below the manhole cover towards midship. Bulkhead 12 x 5 (75) m + approx 9 m2 on bottom. On the bulkhead it's mostly only the beam 'shelves'. Affected areas have been sprayed with ferrucid to limit the spreading of rust. FKJ014
+14-06-2017: No updates regards to start the this project. BJO094
+17.08.2017: Still waiting on SOW from NSE. KLA110
+29092017: Received SOW and quote from NSE. 
+PR Service: 10500053786
+PR Hire parts: 10500053787
+PR Paint: 10500053822",Work completed. See pictures attached. Equipment sent in return on 21.02.2018,J115,1190,12,Other,6.2,Other,10359882,TANK; 19SB;PRELOAD;ABOVE BOTTOM;STBD,285,2
+26-Dec-17,Standard greasing.,pm,done as per attached operational comments. Still in await for spare parts for this machine till rig will reactivate.,J107,3992,7,Service,6.2,Other,12029991,GUMBO SHALE SHAKER,326,1
+18-Dec-17,Unplug mud gun lines,.,Use mix pumps to flush and clean all mud guns. Mixing lines were also plugged with solids. Cleaned mixing lines A and B. Flushed all mud guns with mix pum A.,J107,3992,12,Other,1,General,11740496,MUD GUNS - GROUP,324,1
+17-Jan-18,PRESERVE MUD PUMPS,All pumps opened cleaned flushed and removal of old guts. Also cavitys filled with preservant fluid. Pump room all lines cleaned and lines filled with preservant fluid. Mud pump room fully deep cleaned after words.,All pumps opened cleaned flushed and removal of old guts. Also cavitys filled with preservant fluid. Pump room all lines cleaned and lines filled with preservant fluid. Mud pump room fully deep cleaned after words.,J107,3992,7,Service,6.2,Other,11740640,MUD PUMPS - GROUP,325,2
+26-Dec-17,BX-169 gasket,Replaced gaskets on mud pumps after inspection off discharge filters.,..,J107,3992,12,Other,2.2,Corrosion,11740641,MUD PUMP A,325,6
+18-Nov-17,Clean sandtraps and all lines in lower shakers.,All sand traps were cleaned totally scrubbed down with soap and flushed with drill water. Also all piping in the lower shakers were opened and cleaned out. lower shaker house was cleaned after the job done.,All sand traps were cleaned totally scrubbed down with soap and flushed with drill water. Also all piping in the lower shakers were opened and cleaned out. lower shaker house was cleaned after the job done.,J107,3992,7,Service,6.2,Other,11740346,MUD/BARITE SURGE TANKS - GROUP,321,1
+18-Dec-17,Clean solids out of sandtraps and mixing lines.,Clean solids out of sandtraps and mixing lines.,Clean solids out of sandtraps and mixing lines.,J107,3992,12,Other,6.2,Other,11740503,SHAKER PITS - GROUP,324,1
+14-Jan-18,All HP valves were opened and cleaned.,All HP valves were opened Choke kill Cement Standpipe and standpipe pumproom in order to clean out valves before preserving them. Also all lines were filled with preservant.,All HP valves were opened Choke kill Cement Standpipe and standpipe pumproom in order to clean out valves before preserving them. Also all lines were filled with preservant,J107,3992,7,Service,6.2,Other,12144850,MANIFOLD,332,1
+12-Jan-18,For this item see work order 12400000680,For this item see work order 12400000680,For this item see work order 12400000680,J107,3992,7,Service,6.2,Other,12184368,CHOKE AND KILL SYSTEM,336,3
+12-Jan-18,Weekly functioning,Function all ball valve's as per stacking list and pm list of IFS according weekly and bi-weekly stacking procedure.,Function all ball valve's as per stacking list and pm list of IFS according weekly and bi-weekly stacking procedure.,J107,3992,7,Service,6.2,Other,12184353,DIVERTER SYSTEM - GROUP,334,1
+12-Jan-18,All valves opened and cleaned.,Open all standpipe kill and choke valves in order to properly service them and preserve them. All were opened job still not totally finished as some stems still need to be replaced and some valves still need to be greased as we run out of spare parts.,Open all standpipe kill and choke valves in order to properly service them and preserve them. All were opened job still not totally finished as some stems still need to be replaced and some valves still need to be greased as we run out of spare parts.,J107,3992,7,Service,6.2,Other,12184368,CHOKE AND KILL SYSTEM,336,3
+13-Nov-17,Clean preserve and storage.,All slips to be stored dry and preserved untill usage again.,Slips stored preserved and cleaned.,J107,3992,7,Service,6.2,Other,11743835,DRILL PIPE SLIPS - GROUP,344,1
+26-Jan-18,Order Bathroom floor repairs as per quote,"Repair floors in bath rooms and treat with antislip as per Synergi cases.
+
+PO68797",Order Bathroom floor repairs as per quote,J109,3626,N/A,Not Defined or Applicable,N/A,Not Defined or Applicable,11582801,ACCOMMODATION - GROUP,251,1
+29-Aug-17,YARD Inner jib cylinders leaking.,"Replace cylinders.
+
+ET to verify IP adress on new cylinder prior to installation.",Test off old PDPH cylinders and new PDPH cylinders,J109,3626,1,Replace,1.1,Leakage,11572212,CRANE; KNUCKLE BOOM;PDPH,342,5
+03-Dec-17,YARD Repair or Replace Cuttings conveyor under cantilever,Overhaul Conveyor,Conveyor totally stripped downnew screwsnew hangers and bearngs fittednew end bearing fittednew grease lines fittedgearbox and motor re-fitted..tested ok..,J109,3626,1,Replace,2.4,Wear,12037877,CONVEYOR; CUTTING;UNDER CANTILEVER,326,4
+22-Dec-17,POB Change seals,Change seals,Pump is leaking from plunger overhaul with a new seal kit.,J109,3626,10,Overhaul,1.1,Leakage,12082230,PUMP; HAND;HYDRAULIC,442,1
+22-Jan-18,Order up Salt tablest due to scale build up during stacking,Order up Salt tablets for Ion Exchange filter for LO Purifier feed waterdue to scale build up on purifier water side during stacking period.,Added one bag of salts to the brine chamber on the ion exchanger filter. Have stored other 2 bags on shelves in Rig air compressor room.,J109,3626,1,Replace,6.2,Other,11575871,PURIFIER; LUBE OIL,712,5
+04-Sep-17,YARD Change hoses 5Y,"Change all hoses.
+Hoses outside hull: Object ID 11557699 11557700 11557701 and 11557702
+IFS Part numbers: 1185085 11850861185087 1185088
+Manual PR 10900249108 created due to that no PR was made via MRP.",na,J109,3626,1,Replace,1,General,11557698,HOSES; HYD;DRIVE PIPE SUPPORT - GROUP,335,1
+22-Jan-18,Yard Broken spring disc on both pneumatic cylinder DDM.,"Replace spring disc package on both pneumatic lift cylinder.
+See attachment.
+we got one spring disc on stock p/n 1031468 but on Resolve or Reacher got a full spring disc package 10 pieces for both cylinder.",Spring package is changed on both pneumatic cylinder but discovered a crack in the retaining ring forward cylinder made a new WO. to replace and order an retaining ring.,J109,3626,1,Replace,2.5,Breakage,11569448,CYLINDER NO.1; PNEUM;HOISTING,313,1
+02-Feb-18,WOP Get both temposonics repaired & tested.,"Get both temposonics from BRC lift cylinder repaired & tested as per attached quote.
+
+Lift Temposonic:  IFS P/N 1122165 Model: HPH-1300-3000-A Serial: 120143  - Faulty communication and suspect Profibus communication card could be the issue. To be repaired and tested. Test report to be issued.
+
+TSC Temposonic: IFS P/N 1112000 Model: HPH-1300-0550-A Serial: 120142 -No apparent faults however we would like you to verify that it is in good working condition.","Got both Temposonics from BRC lift cylinder repaired & tested as per attached quote.
+Repair carried out on PO 68146 
+Requested reports of repairs on mail to Logistic Coordinator Tue 20-Mar-18 08:52",J109,3626,9,Inspection,6,General,12100665,CYLINDER; HYD LIFT,341,1
+29-Nov-17,Move Lower Choke A-22547-V2 to inventory,Valve has been dismantled,valve has been dismantled,D101,1515,1,Replace,1,General,10201838,DUAL GATE VALVES; FAIL SAFE - GROUP,331,7
+12-May-16,Overhaul ME#3 Change timing gear,"Change timing gear ME#3
+PP 09.06.2016 SBU Due to operation.
+
+HNS 31.07.2016 Planned end of August postponed accordingly.
+19.08.2016 SRU022
+Man Parts arrived from PO 19440 for the overhaul. Placed in VVC room.
+04.09.2016 EBR020 still missing some timesheets. Job done.",Jobb completed awaiting report from Man.,J105,5361,2,Repair,1,General,11004670,ENGINE NO.3; MAIN;DIESEL,651,15
+12-May-16,Overhaul ME#4 Change timing gear,"Change timing gear ME#4
+PP 09.06.2016 SBU Due to operation.
+HNS 31.07.2016 Planned end of August postponed accordingly.
+03.09.2016 EBR020 End date postponed. Overhaul ongoing.",Done my MAN Awaiting report,J105,5361,2,Repair,1,General,11004671,ENGINE NO.4; MAIN;DIESEL,651,19
+08-Jul-16,Work hours for tech. from Assens Skibsværft representative.,"23.09.2016 SRU022 
+PO 18239 have been created for logging servcie man hours.","Work done
+Time sheet and report attached.",J105,5361,2,Repair,2.2,Corrosion,12017712,DERRICK SKIDDING SYSTEM - GROUP,489,6
+30-Nov-17,Bilge vavle BG401F fail to operate from Kchief,troubleshoot and repair.,Actuator removed and found solenoid to be damaged internally.  Was able to repair and make operational.  Power supply and coil found to be badly corroded.  ET’s modified temporarily and connected.  Unit tested in operation and is not functioning due to what seems to be a weak coil.  With a magnet in place the actuator operates fine.  New coil and power supply to be ordered.  Valve is in manual for the time being.,D101,1515,2,Repair,1,General,11230856,VLV; BILGE SUCT;T/R;CNTR BOW,803,2
+13-Jul-17,Replace Topside AHU No2 Impeller,Replace impeller shaft and install locking nut. Belts and DE bearing have been replaced.,This work order is not accurate as far as equipment number goes.  This work order will be closed and please see w/o# 2892 for all work completed on Topside AHU#3 : AMM106 2017.12.05 03:04:37,D101,1515,12,Other,1,General,10193533,FAN; CENTRIF; BELT DRIVE; AHU NO.2,574,2
+09-Oct-16,Fan belts broken + Fan bearings broken,New bearings due end of November - dates adjusted CMD014,Fan belts broken + Fan bearings broken,D101,1515,1,Replace,1,General,11226774,AHU NO.2; HVAC PLANT RM; TOPSIDE,574,1
+28-Nov-17,Replace Bladder on 15 GAL Accumulator,Rebulid accumulator with new bladder. Then set pre-caharge.,Disassemble accumulator. Install new accumulator repair kit. Precharge Accumulator for water depth,D101,1515,1,Replace,2.8,Burst,11895592,ACCUM NO.1; BLDR;15 GAL;AUTOSHEAR LINE,332,1
+30-Nov-17,Replace UIK and UOK quick dump,Replace Upper Inner Kill and Upper Outer Kill quick exhaust valves.,Replaced Upper Inner Kill and Upper Outer Kill quick exhaust valves,D101,1515,1,Replace,1.1,Leakage,11220422,STACK MOUNTED CTRL AND INSTRUMENT,332,3
+02-Dec-17,Replace Lower Pipe Rams Open Shuttle,Replace shuttle valve with new shuttle valve serial number 4066I,Replaced shuttle valve with new. Serial number of new valve is 4066I.,D101,1515,1,Replace,1.1,Leakage,12179674,SHUTTLE VALVES - GROUP,332,4
+13-Apr-17,1 yearly Dual compact Ram BOP,We are required to pull the BOP and perform all maintenance as per the OEM.,Carry out PM as per yearly task list.,D101,1515,9,Inspection,1,General,11895966,LOWER BOP ASSEMBLY,331,4
+06-Dec-16,Finger 1 row 33 stuck,Replace finger.,Replaced finger.,D101,1515,1,Replace,1.6,Sticking,11893078,FINGERBOARD 6,341,2
+02-Dec-16,High clean fuel leakage rate,investigate,Seth discovered HP Pipe on unit B8. Tighted up o.k. Clean fuel leakage alarm cleared.,D101,1515,4,Adjust,1.1,Leakage,11238805,MGE SET NO.2; E/R;PORT,651,1
+07-Dec-16,High Pressure Washer- Replace Overflow Switch,Remove old swtich. Change out or repair hose install new swtich as required. Install heavier hose clamps to resolve any leaks.,replace overflow swtich and hose connection and clamps,D101,1515,1,Replace,1.6,Sticking,11237702,DELTA BOOSTER UNIT; WASHDOWN SYS,444,9
+06-Dec-16,Dirty Filter- Fuel- Main Engine No. 5- 9420 hours,Change to clean filter and swap out the dirty filter with a clean spare. Clean the dirty filter and return to spares box.,clean dirty fuel filter and put back in spare part box,D101,1515,1,Replace,2,General,11618260,ENGINE FUEL OIL SYSTEM; MGE 5,651,1
+08-Dec-16,Perished hose,Spliced hose & crimped new fitting at end,Spliced hose & crimped new fitting at end.,D101,1515,2,Repair,1.1,Leakage,11539138,HOSES; SERVICE & ACCESS BASKET 1 - GROUP,317,1
+13-Dec-16,Issue parts from August 2016 Telescopic Joint Rebuild,Send Ashore to be cleaned and packers overhauled.,Work order created for issuing parts used during rebuild of Telescopic Joint #1 in August 2016,D101,1515,12,Other,6,General,11253487,TELESCOPIC JOINT NO.1,335,2
+20-Dec-16,Rubber bumpers on trolley damaged.,replce,Rubber bumpers on trolley damaged.,D101,1515,1,Replace,2.4,Wear,11238183,TROLLEY; RISER HANDLING CWM,347,1
+10-Dec-16,SCRAP PRV,removal of psv within IFS structure,Removal of PSV - found not installed on equipment and not found on rig,D101,1515,12,Other,6.2,Other,11631295,PIPING; WCCU NO.2;TOPSIDE - GROUP,574,2
+10-Dec-16,ABB SUPPLY UNIT 1 TROUBLESHOOTING,BREAKING RESISTORS UNITS HAVE BEEN SHUTDOWN ONE BY ONE FOR CHECKING THE INSULATION RESISTANCE VALUES.,BREAKING RESISTORS UNITS HAVE BEEN SHUTDOWN ONE BY ONE FOR CHECKING THE INSULATION RESISTANCE VALUES.,D101,1515,6,Check,3.1,Control failure,10179950,RECTIFIER; SU1;SWBD 1 ER107;TOPSIDE SWGR,867,1
+12-Dec-16,Calorifier#1 - troubleshoot and repair,Need to remove heater unit from calorifier- inspect and repair/replace bad elements,"Calorifier #1 – Troubleshoot heater  – had Alister  open the drain of the tank  to remove heater.  Measure elements and found at least one dead short. Tank was still draining at end of shift – will continue tomorrow.  Look for parts in stock – as per IFS - we have 4 heater elements on hand – part #1133920 Location- D101-EB-01-50-SH
+Replaced Heater cartridge with new one and Maint Eng re-fill the tank.",D101,1515,1,Replace,2.5,Breakage,11617780,FRESH WATER CALORIFIERS - GROUP,581,1
+13-Dec-16,Water booster pump leaking water from muffler.,Replace water booster pump.,Replace water booster pump.,D101,1515,1,Replace,1.1,Leakage,11618023,BOOSTER PUMP UNIT; HYDRATONG; MN WELL,342,1
+06-Aug-16,Sack room forklift for repair.,send ashore for repair,Forklift to be sent ashore for repair,D101,1515,7,Service,3.3,Faulty signal/indication/alarm,11261013,FORKLIFT; 2.5T;SACK STORE ROOM,454,4
+22-Sep-16,Hard drive for storage fail,Replaced Hard Drive,FAULTY HARD DRIVE HAS BEEN LOCATED AND REPLACED,D101,1515,1,Replace,6.3,Unknown,11239128,CABINET; MAIN SERVER;ADM NET,423,3
+20-Oct-16,Order parts for helifuel system gauge,replace gauge,Order parts for helifuel system gauge,D101,1515,1,Replace,2.5,Breakage,11247966,FILTER; TRIPPLE;DISPENSER UNIT;HELIDK,566,1
+30-Nov-16,New pipewipers for main rotary table,Replace the worn wipers by new ones.,wipers replaced cut to size manually.,D101,1515,1,Replace,2.4,Wear,11220334,"ROTARY SUPPORT TABLE RST 75.5""MN WELL",313,5
+04-Dec-16,Worn latch pin on Single joint pick up elev. replace same.,Replace worn latch pins secure to elevator body,replace latch pin,D101,1515,1,Replace,2.4,Wear,10189985,"SPL ELEVATOR - 5 7/8"" IEU",345,1
+28-Nov-16,Change Out Fuel Oil Supply Pump #4,Take one of the rebuilt pumps from stock and change out with currently pump in service to reduce down time of the unit then rebuild the pump in the shop and once completed place back in stock as a spare,Electrically isolated and wires removed from old motor. New motor hooked up. Had to retap and find new hardware to install lid on peckerhead. Ready for op/rotation check. Replaced bearings on motor.,D101,1515,2,Repair,5,General,11232306,FUEL OIL SUPPLY SYSTEM; ENGINE ROOM;CNTR,703,1
+26-Dec-16,Faulty O-Ring on Lid,"Faulty o-ring on lid of filter housing
+Req replacement",faulty o-ring on fuel housing required replacement,D101,1515,1,Replace,1.1,Leakage,11246397,FILTER; DUPLEX; FUEL OIL; MGE 1,651,1
+19-Aug-16,Saltwater cooling piping is leaking,Pipe replaced with Stainless,Fabricated cooling lines from 316 stainless Steel material and installed,D101,1515,1,Replace,1.1,Leakage,11263310,COOLING SKID; MAIN TD,313,2
+03-Dec-16,Spare parts for maintenance on Multi Purpose Safety Clamp,Maintenance to be performed on Multi Purpose Clamps re-fit links and Die Carriers.,inspected and replaced defective parts.,D101,1515,1,Replace,1.4,Deformation,10189876,SAFETY CLAMPS - GROUP,344,1
+28-Nov-16,change out die carrier on PH on MWTDX,replace dies,Die blocks exchanged during IBOP / SSUB exchange.,D101,1515,1,Replace,1.4,Deformation,11220255,TOP DRIVE SYSTEM; MAIN WELL,313,16
+11-Dec-16,Replace pressure gauge on backflush filter,Replace gauge.,Replaced both gauges with new.,D101,1515,1,Replace,3,General,12155897,AUTO BACKFLUSH FILTER,651,12
+16-Sep-16,Order replacement stabbing guide spacers,"
+Aux hydratong stabbing guide spacers have been removed and fitted to
+main. Replacement required for aux.",Replaced stabbing guide spacers with new ones.,D101,1515,1,Replace,1.4,Deformation,11220806,HYDRATONG; ARN 200; AUX WELL,342,15
+18-Dec-16,Scrap HWDP due to lost in hole,Cancelled : KPI031 2016.12.18 10:09:58,Cancelled : KPI031 2016.12.18 10:09:58,D101,1515,1,Replace,1,General,11658815,"6 5/8"" DRILL PIPES; HEAVY WEIGHT - GROUP",351,1
+31-Aug-16,Wire rusted,wire changeout will be done IBW,Wire changed out.,D101,1515,1,Replace,2.2,Corrosion,10183873,WIRE; D10; MANRIDER WINCH NO.2,365,1
+25-Dec-16,Water Observed Coming Out Exhaust Ports,Replace pump with spare order rebuild kit for pump and overhaul,"Installed replacement jockey pump from stock
+
+Old pump to be rebuilt and placed into inventory",D101,1515,1,Replace,1.1,Leakage,10188529,PUMP; PNEUMATIC;SPU 1,815,2
+18-Nov-16,Pressure washer parts from Whse,Replace spray handle and booster,Pressure washer parts from Whse,D101,1515,1,Replace,1.1,Leakage,11237713,SPRAY HANDLE; WASHDOWN SYSTEM,444,3
+02-Sep-16,Change Pressure Filter,Delayed work order - waiting on parts,Closed the WO due to long time waiting on parts to arrive.  The 6M PM will show up in the MECH WO by the time the parts arrive.  We will change both filters in the solenoid cabinets when we perfrom the next 6M.,D101,1515,12,Other,1,General,11237831,CABINET NO.2; VLV;SOLENOID,801,1
+14-Oct-16,OSM Network Issues,"Replaced faulty modules.
+Recieved tech bulletin from NOV reporting faulty modules within a serial range.
+Reported our serial numbers to NOV and they will be replaced.","Replaced faulty modules.
+Recieved tech bulletin from NOV reporting faulty modules within a serial range.
+Reported our serial numbers to NOV and they will be replaced.",D101,1515,1,Replace,3.1,Control failure,11220300,DRILLING CONTROL INTERFACE SYSTEM (DCI),311,1
+26-Nov-16,Replace faulty pressure transducer.,The pressure transducer (11232514) for Pilot Pressure Pump B Centre Bow Thruster is intermittently giving a broken wire alarm.,Observed transmitter Tightened all connections in terminal box.  Fault has not returned.,D101,1515,6,Check,6.3,Unknown,11617855,INSTRUMENTATION STEERING SYS - GROUP,404,1
+26-Nov-16,Replace Pinch Valve on #1 Mudpump and overhaul spares,overhaul the pinch valve inner liner,Replaced #1 MP pinch valve and completed overhaul on 4 spare valves.,D101,1515,1,Replace,2.4,Wear,10182197,REMOTE AUX UNIT; LINER SPRAY,325,1
+06-Dec-16,Dirty Filter- Fuel- Main Engine No. 4- 14600 hrs.,Remove dirty filter and replace dirty with clean spare. Clean dirty filter and return to spares box.,filter dirty,D101,1515,1,Replace,5.1,Blockage/plugged,11618246,ENGINE FUEL OIL SYSTEM; MGE 4,651,1
+08-Dec-16,Grease hose torn,replace hose,Replaced hose.,D101,1515,1,Replace,2.5,Breakage,11891056,HOSE 36; GREASE; RETRACT CYL,313,1
+21-Nov-16,Replace MP valves and seats,Replace valves and seats,Replced Valve and seats,D101,1515,1,Replace,2.4,Wear,11220208,MUD PUMP SYSTEM NO.4,325,13
+06-Dec-16,Dirty Filter- Fuel- Main Engine No. 1- 16243 hrs,Replace dirty filter with clean spare. Clean dirty filter and return to spares box.,clean and put fuel filter back in spare box,D101,1515,1,Replace,2,General,11618204,ENGINE FUEL OIL SYSTEM; MGE 1,651,2
+10-Dec-16,Upper fingerboard row 29-finger 5-8 & row 30-finger 6.,Replace fingers,Replaced finger latches 5 & 8 on row 29; replaced finger latch 6 on row 30,D101,1515,1,Replace,1.4,Deformation,11893077,FINGERBOARD 5,341,1
+07-Dec-16,Dirty Filter- UV Sterilizer #3 (E/R),Change out inlet filter. Inspect further if detected U.V. remains low.,Filter changed with new.  UV sensor lens cleaned.,D101,1515,1,Replace,5.3,Miscellaneous external influences,10182250,UV STERILIZER NO.3; CNTR,581,2
+19-Nov-16,Redress BSR Ram Block  (Lower),Strip NDT and repair / re-dress ram block as required,Duplicate work order work not done on this WO,D101,1515,12,Other,1,General,10188913,UPPER BLIND SHEAR RAM BLOCK,331,3
+03-Dec-16,Replace Valve On Cement Bulk Tank #2,Change out 5'' butterfly valve,replace valve,D101,1515,1,Replace,1.1,Leakage,11220872,TANK UNIT NO.2; BULK;CEMENT,321,2
+29-Nov-16,over haul hp washdown pump,over haul fluid side of pressure washer pump,pump has been overhauled with new o-ring and gasket kit new bearings and a new bearing track plate,D101,1515,10,Overhaul,1.1,Leakage,10186530,PUMP NO.1; CENTRIF;DELTA BOOSTER UNIT,444,1
+07-Dec-16,Fix water leak,Fix water leak,Remove motor siliconed mounting flanges and shortened mounting bolts,D101,1515,2,Repair,1.1,Leakage,11618744,WINDOW WIPER SYSTEM; DRILLER CABIN,311,2
+21-Jun-16,IBW  Main H/tong drive motor bracket,Drill out and replaced sheared bolts on motor bracket.,Drill out and replaced sheared bolts on motor bracket.,D101,1515,1,Replace,1,General,10186266,MOTOR 1; HYD; SKIDDING DRIVE,342,1
+23-Nov-16,SD Port Aft E/R faulty waiting on parts,Replaced detector head and initialized autronica system,Replaced detector head and initialized autronica panel,D101,1515,1,Replace,5.2,Contamination,11241052,DETECTOR; SMOKE/HEAT;WT;PORT E/R,811,3
+25-Nov-16,Smoke/Heat Detector Port E/R faulty waiting on BH-520 type,Replaced detector head and initialized autronica panel,Replaced detector head and initialized autronica panel,D101,1515,1,Replace,5.2,Contamination,11241052,DETECTOR; SMOKE/HEAT;WT;PORT E/R,811,3
+14-Dec-16,Adding Shell Omala S4GX320 for Oil Sampling,Add 1 liter of Shell Omala S4GX320 to WO to create oil sample labels,ADD OMALA S4 GX 320 TO SPARE PARTS BOM FOR OIL SAMPLING PURPOSES,D101,1515,12,Other,6,General,10182231,TANK; LUB OIL; MAIN AHWD,312,2
+08-Dec-16,Need new spray handle for HP washdown gun,replace nozzle,nozzle is replaced,D101,1515,1,Replace,1.1,Leakage,11617571,UTILITY STATIONS; WASHDOWN SYS - GROUP,444,1
+05-Dec-16,New dies installed in main HT,Replace dies in HT,die replaced,D101,1515,1,Replace,1.4,Deformation,10191275,TORQUE WRENCH; TW-3/30; TF-975-1,342,5
+13-Oct-16,Order new NSR,Order new NSR,Order new NSR,D101,1515,1,Replace,1,General,11890269,LIFTING GEAR - GROUP,455,1
+10-Dec-16,Replace position sensor wire on TEN 14,Wire needes replaced.,"REMOVED THE ENCODER FROM ITS BOX BROUGHT IT TO THE SHOP DISMANTLED THE WIRE DRUM CLEANED IT.
+FOUND THE WIRE DRUM SHAFT BEING STUCK LEFT IT IN WD40 FOR A DAY ONGOING.",D101,1515,1,Replace,2.4,Wear,11252945,TRANSMITTER; POSITION;TNSNR 7;CYL 14,314,1
+14-Dec-16,TO ADD SHELL TELLUS S2 V 22 OIL INTO BOM,ADD OIL TO SPARE PARTS FOR OIL SAMPLE LABEL PRINTING,MATERIAL ADDED TO IFS STRUCTURE,D101,1515,12,Other,6,General,10182230,TANK; HYDRAULIC; MAIN AHDW,312,3
+11-Dec-16,Replace pressure washer spray gun,Replace spray handle,Replace pressure washer spray gun,D101,1515,1,Replace,1.1,Leakage,11237713,SPRAY HANDLE; WASHDOWN SYSTEM,444,3
+19-Dec-16,Repair Pipe on #1 R.O.,replace,change out piping on #1R.O.,D101,1515,1,Replace,2.5,Breakage,11223603,GEN NO.1; FW; REVERSE OSMOSIS; E/R; CNTR,761,30
+29-Oct-16,"2"" Lo-torq rebuild kit",rebuild,"Rebuild 2"" lo-torq valve.",D101,1515,1,Replace,2.4,Wear,10177074,"2"" VLV; PLUG; CMNT STANDPIPE MNFLD;CM11",371,1
+08-Jan-17,REPLACE LCU2 INVERTER FUSE,Fuse replaced with new one,BOTH LCU2 INVERTER FUSES WERE BLOWN AND HAVE BEEN REPLACED TESTED ALL GOOD.,D101,1515,1,Replace,4.4,Faulty power/voltage,10179954,VFD; LCU2; SWBD 1 ER101; TOPSIDE SWGR,867,1
+05-Jan-17,Drill Press fails to operate,Remove and replace emergency stop switch on drill press,Removed and replaced faulty emergency stop switch,D101,1515,1,Replace,2.5,Breakage,10190029,PRESS; DRILL MILLING,441,1
+09-Jan-17,Fix dancing racker,"NOV advised us to free the valves with WD40 and test again. If the WD40 didn't do the trick we should perform a min. calibration for the functions that didn't work correctly.
+Did min. calibration for the upper trolley lower trolley and the arms.",Performed min. calibration for all funcions,D101,1515,4,Adjust,3.1,Control failure,11220259,HYDRARACKER; AUX; PIPEHANDLING SYSTEM,341,12
+20-Nov-16,mp 4 pm inspection,replaced 3 springs7 valves6 seats7 cap gaskets2 seat pullers,perform pm on mud pump 4,D101,1515,1,Replace,1,General,11220208,MUD PUMP SYSTEM NO.4,325,13
+28-Nov-16,8000 Hour Over Haul of Pump. Parts Have Arrived Onboard,Perform 8k Hour Maint to Inlcude overhaul of the pump. Pump is showing signs of leakage from the Seal,Overhauled pump since the parts had arrived and was skipped last time due to no overhaul kits onboard.,D101,1515,10,Overhaul,1.1,Leakage,11235256,PUMP; FEED;PRFR UNIT NO.2;LO;E/R;PORT,712,1
+12-Dec-16,DEC EOW 2016-Choke Connector,DEC EOW 2016 - Choke Connector,"Choke connector cleaned. inspected and resealed.
+Pressure tested to 15000 psi all ok",D101,1515,1,Replace,1,General,10193768,STAB ASSY; FEMALE;CHOKE,331,1
+12-Jun-16,Unit lost freon charge. HOT WORK REQD,repaired,Replaced the discharge line from the compressor to condensor with fabricated line and sodered in place. Pressure tested with Nitrogen.  When refrigerant filters arrive we will install pull a vacuum and charge with 404A.,D101,1515,1,Replace,1.1,Leakage,11220467,A/C NO.2; PACKAGED;CNTR BOW T/R,576,1
+27-Dec-16,Broken pin lock,replace,Change out  broken pin lock,D101,1515,1,Replace,2.5,Breakage,11220738,POWER SLIPS NO.1; PS-30,344,3
+06-Jan-17,Change Out Bearing's in Pump Due to Normal Wear,Change out Bearings and any other worn internal parts.,Pump/Motor Overhaul Completed,D101,1515,10,Overhaul,1.2,Vibration,11223197,PUMP P01; EBU,803,1
+08-Jan-17,Replace check valve in braking resister #2,replace check valve,"changed check valve in unit with new valve. Old valve showed significant corrosion and approximitly 1/4"" diamiter hole in valve body",D101,1515,1,Replace,1.1,Leakage,11268309,VLV; CHECK;CSW INL;BRAKING RESISTOR NO.2,721,1
+12-Jun-16,Unit lost freon charge. HOT WORK REQD,repaired leakage,Replaced the discharge line from the compressor to condensor with fabricated line and sodered in place. Pressure tested with Nitrogen.  When refrigerant filters arrive we will install pull a vacuum and charge with 404A.,D101,1515,1,Replace,1.1,Leakage,11220457,A/C NO.4; PACKAGED;CNTR BOW T/R,576,1
+13-Dec-16,Install new parts received.,Replace springs on pipe detector.,Replace springs for pipe detector.,D101,1515,2,Repair,1,General,11238141,"GUIDE HEAD 2 7/8""-14""; HYDRARACKER AUX",341,1
+01-Jan-17,Leaking through seals. Warranty work.,Replace brake pack seals.,NOV replaced worn seals on brake package for deck crane 3 RHS. Assisted NOV with permit tools materials required.,D101,1515,1,Replace,1.1,Leakage,11893833,BRAKE; HOIST WINCH; RHS,361,1
+01-Jan-17,repair bleed off valve on MUD PUMP 1,Pressure testing mud pump to check for leaks and observed pressure was not holding checked all equipment and found leak through bleed off valve into pop off pit replaced seal assembly,repair bleed off valve off Mud Pump #1,D101,1515,1,Replace,1.1,Leakage,11220205,MUD PUMP SYSTEM NO.1,325,18
+15-Jul-16,Brine Valve Actuator Air Leak,Work is on going dates extended - CMD014,Controller replaced with new spare.  Unable to rebuild old controller due to damaged housing threads (causing air leak).  Actuator also rebuilt with seal kit.  Controller calibrated by ET dept. : AIC005 2017.01.10 07:17:28,D101,1515,1,Replace,1.1,Leakage,11261304,"4"" VLV; B-FLY;ACTD;ISOL;BRINE TK PORT",324,1
+02-Jan-17,Inspection of gunline nozzles,Changed out both gunline nozzles in Pit 3,Changed out gunline nozzles in Pit 3,D101,1515,1,Replace,2.4,Wear,11238077,MUD GUN UNIT NO.1; ACTIVE MUD PIT NO.3,324,1
+13-Jan-17,PCWM:,replaced and tightened bolts,Bolts and nuts replaced/retightened as required.  Complete replacement housing has been ordered previously and awaiting on board to replace.,D101,1515,12,Other,1.5,Looseness,11220316,CATWALK; PIPEHANDLING,341,9
+21-Sep-16,IBW - Take vibration readings under load,Needs to be completed during next IBW - Dates adjusted CMD014,Take vibration readings under load,D101,1515,6,Check,1,General,11220543,GENERATOR SET; EMCY; DIESEL,665,2
+07-Jan-17,CHANGE OUT SEAL COUPLING ON CCB LINE,PUTTING CCB LINE BACK ON DISCOVERED SEAL WAS BAD. CHANGED OUT ASSEMBLY.,CHANGED OUT COUPLING ON CCB LINE,D101,1515,1,Replace,1,General,10181284,CHUTE; CUTTING; MUD TREATMENT SYSTEM,326,1
+28-Dec-16,inspect coflex kill.,Removed hose and laid out on the riser deck. The hose was  lanced and bore scoped.,inspect coflex kill.,D101,1515,6,Check,6.2,Other,12122176,HOSE; COFLEX;AFT KILL,335,1
+12-Jan-17,#2 Thruster Dessicant Breathers- Replace,Replace desiccant breathers with spares.,Replaced both desiccant breathers. Tested all in good order.,D101,1515,1,Replace,6,General,11232334,LUBE SYSTEM; LOWER GRBX;PORT BOW THR,404,2
+27-Dec-16,Machine out of order,Replaced the top valve assembly,Machine out of order,D101,1515,1,Replace,4,General,11224151,COFFEE MACHINE; MESS ROOM,551,1
+27-Oct-15,IBW - Top Drive Aux Dolly Cylinder replacement,replace cylinder,change out dolly retract cylinder due to incorrect spacing,D101,1515,1,Replace,1.3,Clearance/ alignment failure,10185823,CYLINDER; HYD;RETRACT;DOLLY;AUX,313,1
+08-Jan-17,Dampers failed to read closed during ESD,Ensure dampers actually close adjust as necessary,lubricated and cycled all dampneres on objet list. Some required adjustment of micro switches. all dampners now work as required,D101,1515,4,Adjust,1.6,Sticking,11618193,HVAC SYSTEM; ACCOMMODATION,571,1
+30-Oct-16,Radio display does not come on when,repair display,replaced radio with new unit and tested ok,D101,1515,1,Replace,4,General,12148337,RADIO; VHF; LIFEBOAT NO.2,501,2
+27-Apr-17,replace valve assembly due to leaks.,repair valve,noticed a Gate valve was leaking during a test. remove and replace with new valve assembly.,D101,1515,2,Repair,2.4,Wear,11618713,VLVS GROUP; MUD STANDPIPE MANIFOLD,325,1
+13-Jan-17,Filter-Backflush-Main Engine No. 1- 16606 Hours,Change Out Filter With Clean Spare,Filter Changed out,D101,1515,1,Replace,5.1,Blockage/plugged,11246405,FILTER; AUTOMATIC; MGE 1 LUB OIL SYSTEM,651,1
+12-Jan-17,Change RO1 filter,Install new filters,Filters Changed out with Spares,D101,1515,1,Replace,1,General,11223603,GEN NO.1; FW; REVERSE OSMOSIS; E/R; CNTR,761,30
+11-Jan-17,Repair Position Indicator on Valve OD032F FO Supply QQ Valve,Need to repair postiion indicator,faulty indication on the QCV,D101,1515,2,Repair,3.3,Faulty signal/indication/alarm,11235370,VLV; QUICK CLOSE; MDO SUPPLY; STBD E/R,812,1
+25-Jul-16,KBC 1 hoses showing signs of wear,PAL026 - This is not limited to IBW period it can be done at any time.,replaced defective hoses,D101,1515,1,Replace,2.4,Wear,11220269,DECK CRANE NO.1; FWD STBD,361,6
+06-Jan-17,Pump waste oil to tote tanks,pump out tank for disposal,emptied waste oil tank,D101,1515,12,Other,6,General,11224111,SLUDGE TANK SYSTEM,803,4
+10-Jan-17,change out lube oil pmp on MP NO.2,change out pump,changed out lube oil pmp offline an main lube oil filters.,D101,1515,1,Replace,2.4,Wear,11618699,LUB SYSTEM; MUD PUMP NO.2,325,4
+01-Jan-17,Check hydraulic plugs,Tighten any loose hydraulic plugs.,Checked all hydraulic plugs on back of dolly for looseness. Found several plugs loose. Retightened any loose ones and applied paint stripe to monitor for looseness.,D101,1515,6,Check,1.2,Vibration,11220255,TOP DRIVE SYSTEM; MAIN WELL,313,16
+09-Jan-17,Damage grease hose,hoses changed,Hose replaced,D101,1515,1,Replace,2.4,Wear,11270003,HOSE 07; GREASE; SHEAVE; LVL 14,301,1
+30-Dec-16,BX-5's and 7 NDT,Strip down BX-5's and 7 for NDT inspection and re-assemble after complete,,D101,1515,,,,,11220735,ELEVATOR; HYDRAULIC; BX-5; MAIN,345,5
+10-Dec-16,Cylinder,Cylinder leaks thru rod seals.,Duplicate refer to WO:11400000363,D101,1515,12,Other,6.2,Other,11893374,CYLINDER; LIFT UP/DOWN FRAME,342,1
+16-Aug-16,Pipe catwalk shuttle wheel,"Sorted out parts for wheel replacement.  Functioned shuttle and found all wheels working properly.  Further inspection found wheels have been installed without wheel space plate. : KWR008 2016.12.20 15:55:15
+
+Wheels replaced : KWR008 2016.12.20 23:03:02
+
+Replaced wheels & grease fittings; greased wheels. : JLQ004 2016.12.21 04:59:19",Replaced wheels.,D101,1515,1,Replace,2.4,Wear,10182320,SHUTTLE; PIPEHANDLING CWM,341,2
+19-Feb-16,discharege piping on GS bilge an ballast,see fault desc,Pipework was removed and the interior of the plumbing was coated with several layers of a steel protective compound.  This was also done on the other G/S pump and has had success.  The pipework that was recieved will go into welding supplies.  No further action needed at this time.,D101,1515,2,Repair,1.1,Leakage,11220139,PUMP UNIT NO.1; BILGE/BALLAST&G/S;FWD,801,1
+16-Jul-16,IBW - Crane 2 hydra. hoses show signs of wear,All materials are on board awaiting access - moved to IBW - CMD014,replace defective hoses,D101,1515,1,Replace,2.4,Wear,11539276,HOSES; DECK CRANE 2;FWD/PORT - GROUP,361,2
+26-Dec-16,Pump Unit Fails to Maintain Standby Pressure,Inspection of by-pass valves and pumps to see if any water is leaking through. Correct deficienes as required.,"SPU#3 was isolated from the system and troubleshot. We found 6 ""unloader"" or by-pass valves that were faulty. These valves had heavy calcium deposits around the sealing surfaces causing leakage. 
+
+Valves were disassembles (spring was untouched) and internals were cleaned/polished. Unit put back together and tested.
+
+Seal kits in stock are not for the valve",D101,1515,7,Service,5.1,Blockage/plugged,11238514,PUMP SET NO.3; WATER MIST SYSTEM,815,2
+02-Jan-17,PN/PN coupler,"Replace the PN/PN coupler (111-AB102R1PNCX2) .
+Have to reload the HW again from the Master Main DW rack 1 because new PN/PN coupler didnt pull configuration from SD card 
+Different test on both PLCs by switching on Stop mode back and forward on the selector switch and trough the Simatic Manager and so far we run without errors or any other problems","New PN/PN coupler installed and configured. Have to reload the HW again from the Master Main DW rack 1 because new PN/PN coupler didnt pull configuration from SD card 
+Different test on both PLCs by switching on Stop mode back and forward on the selector switch and trough the Simatic Manager and so far we run without errors or any other problems",D101,1515,1,Replace,3.4,Out of adjustment,10180239,PLC; DPLS AW; CTRL CABINET; TOPSIDE SWGR,312,1
+03-Jan-17,Repair oil leak on G/S air compressor 1 stbd,replace o-rings in cylinder,Leak found on the hose and was corrected.,D101,1515,2,Repair,1.1,Leakage,11223597,COMPRESSOR 3; G/S & CTRL AIR SYS; STBD,733,2
+02-Jan-17, NOV Changing Drag Chain Cables,Assist NOV as required changing cables,Assisting NOV,D101,1515,1,Replace,4,General,11220259,HYDRARACKER; AUX; PIPEHANDLING SYSTEM,341,12
+27-Dec-16,replace lamps for light,opened lamp found two burnt bulbs replaced them. wound light chnger back up. light is now operational.,replace light,D101,1515,1,Replace,1,General,11239704,LIGHT NO.2; WHITE;MAIN;HELIDECK,427,2
+11-Jan-17,PS30 main door pin replaced,reassembled after NDT,This is a duplicate work order and has been superceeded by work order number 432,D101,1515,12,Other,1,General,10192737,"SLIP ASSY; 500T; 2.3/8"" - 10.3/4""",344,4
+30-Dec-16,Inspect inverter filter capacitors,Test and replace faulty filter capacitors on VFD inverters with earth fault.,VERIFIED FILTER CAPACITORS ON MP 2A AND 2B,D101,1515,9,Inspection,4.5,Earth/isolation fault,11220142,VFD SWITCHBOARD SYSTEM; 690V,867,1
+29-Dec-16,Transport costs for tubulars for inspection,,,D101,1515,,,,,12140076,DRILL PIPE - GROUP,351,23
+06-Dec-16,KBC 3 Hydraulic leak on return manifold,Gasket replaced adn tank topped back up with 600ltrs of oil,Gasket replaced and hy oil topped up,D101,1515,1,Replace,1.1,Leakage,11220271,DECK CRANE NO.3; AFT STBD,361,7
+21-Dec-16,STEERING COMMANDS FROM LIPSTRONIC/KONGSBERG NOT FOLLOWED,"KONGSBERG LOCAL CONTROL PANEL FAILED TO ACTUATE THE STEERING PUMPS TO ROTATE THRUSTER C.C.W. OR C.W.
+
+LIPSTORNIC PANEL FAILED TO ACTUATE THE STEERING PUMP #1 C.W. DIRECTION
+
+JDB041 - Went to panel with maint. engineer and tested the steering system from lipstronic and kongsberg panel.  Both worked correctly upon demand.",Went to panel with maint. engineer and tested the steering system from lipstronic and kongsberg panel.  Both worked correctly upon demand.,D101,1515,8,Test,6.2,Other,11223570,THRUSTER SYSTEM NO.1; CNTR BOW,404,4
+31-Dec-16,Replace Faulty Topside DVR,Replace with spare DVR unit from warehouse.,DVR replaced with spare from warehouse,D101,1515,1,Replace,6.3,Unknown,10180175,PC; CCTV; DRILL FLOOR; CTRL CABINET; LIR,348,3
+30-Dec-16,Replace Gantry Encoder Bracket on RGC,Encoder bracket was damaged.  Repaired to make usuable.  Replaced with spare from Developer.,Encoder bracket was damaged.  Repaired to make usuable.  Replaced with spare from Developer.,D101,1515,1,Replace,2.5,Breakage,11631510,CONTROL&MONITORING - GROUP,362,1
+21-Nov-16,Replace double check vaves on regulators,Replace double checkvalves on pod regulators,Double check valves replaced and tested.,D101,1515,1,Replace,2.4,Wear,11247985,LMRP MOUNTED CTRL AND INSTRUMENT,332,1
+29-Dec-16,Main Top Drive aft lub oil pump leaking,rebuild req,Lube oil pump shaft seal was replaced. Lube oil pump spider was replaced. Lube oil pump was reinstalled.,D101,1515,1,Replace,1.1,Leakage,11254933,PUMP NO.2; LUBE OIL; TOP DRIVE MAIN,313,2
+16-Jul-16,IBW - Crane 3 Hydra. hoses show signs of wear,All materials are on board awaiting access - moved to IBW - CMD014,replaced defective hoses,D101,1515,1,Replace,2.4,Wear,11539283,HOSES; DECK CRANE 3;AFT/STBD - GROUP,361,1
+02-Feb-16,IBW - Load Pins Service Loop Parted,Replaced by NOV on warranty,"Load pin service loop replacement by NOV personnel
+
+This is warranty supplied service loop.",D101,1515,1,Replace,2.4,Wear,11897184,SERVICE LOOP; ELECTRICAL;MAIN TD,313,2
+02-Jan-17,Hose burst at basket end.,Replace hose as required.,Replaced section of burst hose.,D101,1515,1,Replace,2.8,Burst,11255348,HOSE 608; HYD;TELESCOPE CYL,317,1
+29-Dec-16,fluid end inspection of mud pump 3,performed montly pm of mud pump 3 changed all parts listed in fault desc.,performed montly pm,D101,1515,1,Replace,6.2,Other,11220207,MUD PUMP SYSTEM NO.3,325,16
+14-Jan-17,built new open hole cover for riser bridge,fabricated new one,new cover fabricated an refitted,D101,1515,1,Replace,2.5,Breakage,11220317,CATWALK; RISER HANDLING,347,14
+05-Jan-17,mechanical seal on mixing pump #3 needs to be changed,replace seal,Changed mechanical seal shaft sleeve and the discharge bellows on Charge Pump #3.,D101,1515,1,Replace,1.1,Leakage,11220822,PUMP NO.2; CENTRIF; MUD; MIXING,324,1
+13-Jan-17,Active carbon for sewage vent,Repalce active carbon in sewage vent,changed carbon filter,D101,1515,1,Replace,2.4,Wear,11236449,PIPELINE; AIR VENT;SEWAGE TREATMENT PLNT,821,1
+15-Aug-16,X clamp cylinder bore,Equipment on shore getting modified,X-clamp body rebuilt and returned to upper deck.,D101,1515,2,Repair,2,General,11897174,X-CLAMP; FOUR-JAW;PIPEHANDLER GRIPPER,313,5
+13-Jan-17,training,training,,D101,1515,,,,,10180755,ENGINE; DIESEL; RESCUE BOAT,501,1
+27-Dec-16,fluid end inspection on mud pump 2,changed 6 cap gaskets 1 valve1 spring1seat,fluid end inspection on mud pump 2,D101,1515,7,Service,6,General,11897351,FLUID END MUD PUMP NO.2,325,1
+19-Sep-16,G/S pump port ER leaking mech seal,Replace bearing and seals,Replace Pump Seals and Pump Bearing,D101,1515,1,Replace,2.6,Fatigue,11235320,PUMP; BALLAST;BILGE&G/S; E/R;PORT,801,1
+27-Dec-16,fluid end inspection on mp #5,fluid end inspection on mud pump #5 changed 6 cap gaskets,fluid end inspection on mp #5,D101,1515,9,Inspection,6,General,11897357,FLUID END MUD PUMP NO.5,325,3
+24-Apr-17,Unable to operate mushroom vent,Release vent so it can operate,Operated damper with extenstion while lubircating with grease. Damper now opperates smoothly as required.,D101,1515,1,Replace,1,General,11232395,VENT; MUSHROOM;SUPP;HPR COMPT;PORT FWD,576,1
+13-Apr-17,BOP Control System HPU,We are required to pull the BOP and perform all maintenance as per the OEM.,Perform EOW maint,D101,1515,9,Inspection,1,General,11895814,HPU SKID; BOP CONTROL,332,8
+03-May-17,Replace clamp pressure transmitter on Main EBT,Repair sensor,No feedback from sensor.,D101,1515,2,Repair,2.5,Breakage,11618013,ELEVATED BACK UP TONG SYSTEM,342,1
+17-Jan-17,Faulty Hospital UPS,"ISE020 18/01/2016 UPS on order PR 11400269360
+
+UPS arrived and installed.","New UPS on order PR 11400269360
+
+Arrived Installed s",D101,1515,1,Replace,6.3,Unknown,11243784,UPS; 2.5KVA; HOSPITAL/TRATMENT RM,892,3
+05-May-17,Subsea HPU expansion module controller,Troubleshooting established failure of PLC expansion  controller replcaced with new one and tested All OK,Troubleshooting established failure of PLC expansion  controller replcaced with new one and tested All OK,D101,1515,1,Replace,3.1,Control failure,11895814,HPU SKID; BOP CONTROL,332,8
+07-Mar-17,Crane survey Corrective Action - #4 DECK CRANE,see report in page,corrective actions window washing tank was found to be out of fluid refilled an tested no farther issues at this time sheave checked with no go guage for profile deformation  also wear  was measurde with depth micro meter an measurements recorded an will be submitted to IFS planner for equipment attachment.,D101,1515,7,Service,1,General,11220318,DECK CRANE NO.4; AFT PORT,361,9
+17-Apr-17,1 yearly GE hydril high pressure test manifold,Ensure all gauges/chart recorders and relief valves are in calibration.,Check all pressure measuring equipment and relief valves for calibration,D101,1515,12,Other,6.2,Other,11247984,"BOP; 18 3/4"";15000PSI",331,12
+06-May-17,Lower fingerboard cabinet 1 Leaking solenoid valves,repair fault,Inspected and found spool on sol valve first from the left on top row had bad seals on th spool removed and replaced as required. leak checked with no issues noted,D101,1515,1,Replace,1.1,Leakage,11238152,CABINET 1; VLV;LOWER FINGERBOARD,341,1
+03-May-17,Clamp Pressure Transmitter Signal Fault,Clamp Pressure Transmitter Signal Fault ET's to investigate,Repair pressure transmitter,D101,1515,2,Repair,2.5,Breakage,11256913,TRANSMITTER; PRESS;GRIPPER CLAMP,342,2
+03-May-17,Replace emergency stop relay,repair fault,The emergency stop relay was in error. Showed up as an alarm on the NOV terminal. Replaced the relay and fault has not re-appeared,D101,1515,1,Replace,5,General,11220194,DRAWWORKS; MAIN AHD 1250,312,9
+19-Oct-16,WOP- Center Purifier Sink Valve,valve gate replaced,After inspection it appears valve has been replaced previously. Extra valve recieved place in stores.,D101,1515,1,Replace,1,General,11228693,PIPING; BILGE SYSTEM,803,1
+06-May-17,Fingerboard cabinet 2; leaking solenoid valve,repair fault,Inspected and found spool on sol valve fifth and sixth from the left on top row had bad seals on the spools. Removed and replaced as required.  leak checked with no issues noted.,D101,1515,1,Replace,1.1,Leakage,11238153,CABINET 2; VLV;LOWER FINGERBOARD,341,1
+06-May-17,Lower fingerboard cabinet 7; Leaking solenoid,repair fault,Inspected and found spool on sol valve seventh from the left on top row had come loose.Tightend spool as required and leak checked with no issues noted.,D101,1515,4,Adjust,1.1,Leakage,11251248,CABINET 7; VLV;LOWER FINGERBOARD,341,1
+30-Apr-17, DFMA replace lock stop,repair end stop,replaced broken end stop,D101,1515,2,Repair,1.5,Looseness,11223707,DRILL FLOOR MANIPULATOR ARM DFMA,341,5
+01-May-17,washing machine  # 4 leaking,repair the leak,leak investigated an repaired,D101,1515,2,Repair,1.1,Leakage,11223756,WASHER EXTRACTORS; 20KG - GROUP,558,1
+30-Apr-17,REPLACE PULLEY FOR AUX RACKER TAIL ARM ENCODER,PULLEY TO BE REPLACED AND ENCODER WIRE TO BE RE-ATTACHED TO THE END OF THE TELESCOPIC PIPE.,AUX HR SECOND CYLINDER ENCODER WIRE PULLEY HAS BEEN REPLACED AND ENCODER WIRE RE-ATTACHED TO THE END OF THE TELESCOPIC PIPE.,D101,1515,1,Replace,2.5,Breakage,11249383,ENCODER; CYLINDER 2; TAIL ARM,341,1
+02-Feb-17,ABS DP Trial Review,...,ABS DP Trial Review,D101,1515,12,Other,6,General,11604073,CLASSIFICATION & AUTHORITIES ETC,112,2
+01-May-17,Main TDX Traveling block fwd tilt cylinder leaking,Replace cylinder.,Hydraulic cylinder replaced,D101,1515,1,Replace,1.1,Leakage,10911033,BLOCK; TRAVELLING;MAIN,303,5
+20-Mar-17,Multiple lamps burned out,...,"Replaced lamps in circuit. Lamps previously issued from warehouse
+
+Replaced these two bulbs last hitch on 3/23/17. Lights have been pulled from warehouse as part of another WO against these lights. Good. : DBT006 2017.05.04 17:20:52",D101,1515,2,Repair,5,General,11242836,FL; 2X36W;CONFERENCE RM 1,892,1
+01-May-17,Faulty gauges,Gauges replaced with new one,Gauges replaced with new ones,D101,1515,1,Replace,6,General,11220277,HP AIR SYSTEM; RISER TENSIONERS,315,1
+17-Mar-17,Corrective Actions as per Drops Survey Deck Crane No 2,replace secondary retention,secodary retension cable has bee installed to this item to prevent drop,D101,1515,1,Replace,2.4,Wear,11220270,DECK CRANE NO.2; FWD PORT,361,7
+01-May-17,Replace broken dryer belt,Broken dryer belt was replaced. Work order created to charge parts off from inventory.,changed belt and retested dry. Unit is working as required.,D101,1515,2,Repair,2.4,Wear,11223909,TUMBLE DRYER NO.3; 14KG;LAUNDRY,558,1
+17-Mar-17,Corrective Actions as per Drops Survey Deck Crane No 3,correct findings,this item has been corrected by  a secondary retension cable being installed to prevent drop.,D101,1515,1,Replace,2.4,Wear,11220271,DECK CRANE NO.3; AFT STBD,361,7
+02-May-17,Replace mesh on de chlorinator inlet pipe,Install new stainless mesh,Install stainless mesh on de-chlorinator inlet,D101,1515,1,Replace,2.2,Corrosion,11220985,DECHLORINATION UNIT,581,2
+27-Mar-17,pump parts,change out defecitve components,completed as per job scope.,D101,1515,1,Replace,1,General,11220208,MUD PUMP SYSTEM NO.4,325,13
+16-May-17,Replace PA/GA UPS A battery packs.,remove old batteries and install new ones,Started replacing batteries in packs on UPS. Got through about 6 of them. Will finish next shift. Finished install. Waiting for UPS install.,D101,1515,1,Replace,5,General,11239444,UPS NO.1; PA/GA,425,2
+10-Apr-17,Top Drive / Deadman Load Cell Calibration,Calibrate Top Drive Load Oins and Dead Line load Pins,Calibrate Main Topdrive Load cells,D101,1515,4,Adjust,1,General,12156354,LOAD CELL GROUP,313,2
+28-Mar-17,replace stab. cords on slt,replace stabalizing cords on slip lifting tool,changed slip lifter tool cords due to wear,D101,1515,1,Replace,1,General,10192756,SLIP LIFTER TOOL; NO.1,344,8
+18-May-17,Break Room Heater was tripped,investigate and correct fault,Reset 150C in the heater JB and the alarm on the control panel. Closed everything up and it op checks good.,D101,1515,2,Repair,4,General,11226857,HEATER; DUCT;EL;SUPP DUCT;C/S MM23,576,1
+16-May-17,WNL PCMS 300490350: PBF and high contamination levels,this is a documented warranty claim,"reviewed report - this is subject to an ongoing warranty claim as current fitlering arrangements are not suitable for removing saturated water from oil on free  water
+Bearing issue has not worsened recently and ABB is planned at some point during operatons to attend to change out the motor bearings",D101,1515,2,Repair,1.2,Vibration,11223571,THRUSTER SYSTEM NO.2; PORT BOW,404,3
+25-Jan-17,Filter assembly erroded/corroded.,"Replace filter assembly when parts arrive.
+
+Full filter assembly replaced.",Full filter assembly replaced.,D101,1515,1,Replace,2.4,Wear,10182325,TANK; COOLING WATER;AUX TD COOLING SKID,313,1
+06-May-17,Change Out Air Dryer Inlet and Outlet Filters,Change out filters with spare's in stock,Changed out Filters  with spares from stock,D101,1515,1,Replace,1,General,11220549,AIR DRYER NO.2; G/S & CTRL AIR SYS;PORT,733,4
+07-May-17,repair welds on haliburton cutting dryers,reoair welds,v notch or grinded out cracks from welds on 3 seperate padeyes on cuttings dryers ann rewelded ,D101,1515,2,Repair,2.5,Breakage,11261021,CUTTING DRYER - GROUP,180,1
+17-Jan-17,Corrective actions required for THRUSTER DRIVES,Take corrective actions IAW attached report for each thruster drive listed in object list.,Went through and inspected all 6 VFDs for alarms. Inspection revealed alarms have been cleared. Work was done to inspect sensors and signs of leakage in the WCU. Everything checks good.,D101,1515,2,Repair,1.1,Leakage,11232250,THRUSTERS DRIVE - GROUP,867,1
+19-May-17,Replace Guage on #6 Thruster Power Steering motor,change out pressure guage,change out pressure guage,D101,1515,1,Replace,2,General,11223575,THRUSTER SYSTEM NO.6; CNTR STERN,404,4
+17-Jan-17,Repair Outlet Stations,Repair Outlet Stations,Replace missing adaptors and couplings,D101,1515,1,Replace,1,General,11223647,HIGH PRESSURE WASHDOWN SYSTEM,444,21
+08-Feb-17,WO for sanding discs and backup pads,order parts,Parts have been ordered.,D101,1515,12,Other,6.3,Unknown,11220182,HAND TOOLS; WORKSHOP - GROUP,441,3
+13-May-17,fully function damper,repair damper,Greased damper tested open/closed.  Fuctioned properly,D101,1515,7,Service,1.6,Sticking,11220484,DAMPER; PNEUM;SUPP FAN NO.1;PORT E/R,574,1
+16-May-17,WNL PCMS 300490352: the unit is healthy,no action,no action,D101,1515,12,Other,6.2,Other,11223573,THRUSTER SYSTEM NO.4; PORT STERN,404,2
+24-Apr-17,replace liner booster pump on (mud pump 3),replaced liner booster pump and changed all cooling water,replaced liner booster pump on mud pump #3,D101,1515,1,Replace,1.1,Leakage,11220207,MUD PUMP SYSTEM NO.3,325,16
+10-May-17,Thruster No3: Add oil to Hydraulic Oil Tank for Steering,top up oil,add 88 ltrs of oil to #3 power steering tank,D101,1515,12,Other,6,General,10191469,TANK; HYDRAULIC OIL; STEERING SYSTEM,404,1
+22-Apr-17,inspection of bulk barite tank C1C2,performed inspection and cleaning on bulk barite tank #2 for electrical dept. to calibrate load cell sensors to zero weight tank was cleaned and found damaged manway gasket and replaced everything else was in good working condition,inspection and cleaning of bulk barite tank #2 c1c2 for electrical dept to calibrate load cell sensors to zero weight,D101,1515,9,Inspection,6,General,11220864,TANK UNIT NO.2; BULK;BENTONITE,321,1
+16-May-17,WNL PCMS 300490351: PBF and high contamination levels,bearing replacemant and water saturation in the oil is already covered by warranty claims,"covered by an existing warranty claim awaiting operational window for ABB to attend to change out the bearings.
+No further details regarding how to remove the saturated water from the oil",D101,1515,2,Repair,1.2,Vibration,11223572,THRUSTER SYSTEM NO.3; STBD BOW,404,5
+16-May-17,WNL PCMS 300490353:the unit is healthy,no further action taken,no action taken as unit is healthy,D101,1515,12,Other,6.3,Unknown,11223574,THRUSTER SYSTEM NO.5; STBD STERN,404,2
+16-May-17,WNL PCMS 300490354: Potential bearing failure,this is a documented warranty claim awaiting an operational window to repair,"this is an outstanding warranty claim against ABB
+Awaiting an operational window for ABB to attend and complete the change out of the motor bearing",D101,1515,1,Replace,1.2,Vibration,11223575,THRUSTER SYSTEM NO.6; CNTR STERN,404,4
+23-Feb-17,Replace Main hydratong torque wrench side support bolts,WOP: PO: 30102 Line4-JAO030.,Removed and replaced side support bolts as required. All hardware is tight and secure.,D101,1515,1,Replace,2.6,Fatigue,11220805,HYDRATONG; ARN 200; MAIN WELL,342,54
+10-Dec-16,Tail in arm cylinder damaged internally at cap end face.,"Replace cylinder for trap roller on tail in arm. WOP PN:1104301-JAO030 05/12/2017
+
+Dates extended CMD014 08.01.2017
+New cylinder has arrived and been put into stores as a spare.",New cylinder has arrived and been put into stores as a spare.,D101,1515,12,Other,4,General,10186295,CYLINDER; HYD;ROLLER;TAIL IN ARM,341,1
+19-May-17,Lube oil filter MP # 2 cloggedneed to be replaced,change out the dirty filters,oil filter 's changed it was found that oil lfilter housing were full of debree housings drained an debree removed an new filters installed.,D101,1515,1,Replace,5.2,Contamination,11618699,LUB SYSTEM; MUD PUMP NO.2,325,4
+10-May-17,Thruster No1 Hydraulic Oil Tank - Add Oil + Renew Gauge,correct defect,added 80 ltrs of oil to hydraulic steeting tank change out filter #1 pressure gueag with 0-60 bar guage,D101,1515,12,Other,2,General,10191467,TANK; HYDRAULIC OIL; STEERING SYSTEM,404,1
+06-May-17,Change Out Air Dryer Inlet and Outlet Filters,Change out filters with spare's in stock,Changed out filters with spare from stock,D101,1515,1,Replace,2.4,Wear,11223599,AIR DRYER NO.4; G/S & CTRL AIR SYS; STBD,733,1
+13-Mar-17,Replace scanner in tecnical office,Replace scanner bed,Replaced Unit,D101,1515,1,Replace,1,General,10178931,DISPLAY UNIT; WITH PRINTER,421,1
+15-May-17,Install new dies in main HT torque wrench.,replace same,dies replaced,D101,1515,1,Replace,2.4,Wear,10191275,TORQUE WRENCH; TW-3/30; TF-975-1,342,5
+14-May-17,Mast head light out of order,Mast head light out of order,Removed and replaced bulb. Bulb needed changing but someone on the Bridge had turned off the breaker which caused more time to be devoted to this task. Both Main and Sub are working now. : DBT006 2017.05.15 22:26:32,D101,1515,1,Replace,2.6,Fatigue,11260489,LIGHT; MAST HEAD;UPPER LEVEL;NAVI,427,1
+17-May-17,Upper finger board row 8 #1,replace failed item,Removed and replaced faulty finger  Torqued and safetied as required.,D101,1515,1,Replace,1.1,Leakage,11893074,FINGERBOARD 2,341,5
+07-Jul-16,WARNING LIGHTS UPS REPLACEMENT,replace UPS,UPS has been replaced. UPS issued against another WO. System checks good,D101,1515,1,Replace,3,General,11239753,UPS; LIGHTING SYSTEM;WARNING;AIRCRAFT,427,1
+07-Mar-17,Crane survey Corrective Action - HELIDECK CRANE,repair defects,removed damaged ladder cut away bent section of ladder an replaced reinstalled ladder no farther maint due.,D101,1515,2,Repair,5.3,Miscellaneous external influences,11220683,CRANE; SERVICE;HELIDECK,563,3
+14-May-17,Both 18W lights in pedestal are inop.,replace lamps,Found the clamps on one cover were unfastened so fastened them; light works. Cycled switch and other light works.,D101,1515,2,Repair,1.2,Vibration,11258784,LIGHT; FLUOR; 2X18W; PEDESTAL,361,1
+05-Apr-17,Remove debris from UPS  A Main Input (Drilling VFD) Xformer,While I was working on a light next to the transformer I dropped the hard plastic cover that goes over the bolt on the light. It bounced off of the ladder rung and into the transformer.,Debris worked its way out. Found it behind cabinet,D101,1515,6,Check,2,General,11227300,TRANSFORMER; UPS MAIN INPUT;100 KVA,865,1
+27-Apr-17,Replace internals on Standpipe valve S2,Replace internals on Standpipe valve S2 (325-X1-SM2),replaced internals and preformed pressure test 7000psi good test.,D101,1515,2,Repair,2.4,Wear,10177083,"5 1/8"" VLV; GATE;FROM MUD PUMPS",325,1
+18-Jan-17,Repair various lamps and lights around the rig,replace/repair lamps,Replaced bulbs in two high bays in Sack Room. Good. Operation Line 5 : DBT006 2017.03.26 19:35:50,D101,1515,1,Replace,4,General,11232956,LIGHTING FITTING; HULL - GROUP,891,3
+16-May-17,Rplace Stuffing box seals and wiper on Tensioner #11,Suspect leak across stuffing box seals to be replaced with parts in stock.,Hannon hydraulics attended and assisted with the deal change out on the tensioner,D101,1515,2,Repair,1.1,Leakage,11895030,RISER TENSIONER 11; DUAL RISER TNSNR 6,314,1
+01-Apr-17,Stbd MODU light inop; indicating failure on control cabinet,repair defect,Works. Pulled lamp assembly rotated reinstalled lamp.,D101,1515,4,Adjust,1.6,Sticking,11239704,LIGHT NO.2; WHITE;MAIN;HELIDECK,427,2
+23-May-17,Cooler CFW- Aft Stbd #1: Backflush Clean Strainer,Clean cooler strainer and backflush cooler.,Strainer found badly choked. Cleaned backflushed cooler and re-installed strainer. All in good working order.,D101,1515,7,Service,6,General,11223617,COOLER NO.1; CENTRAL; CFW; E/R STBD,722,1
+23-May-17,Cooler CFW- Aft Port #1: Backflush Clean Strainer,Clean cooler strainer and backflush cooler.,Strainer found hardly fouled. Cleaned backflushed cooler and re-installed strainer. All in good working order.,D101,1515,7,Service,6,General,11223623,COOLER NO.1; CENTRAL; CFW; E/R PORT,722,1
+23-May-17,Cooler CFW- Aft Cent #1: Backflush Clean Strainer,Clean cooler strainer and backflush cooler.,Strainer found hardly fouled. Cleaned backflushed cooler and re-installed strainer. All in good working order.,D101,1515,7,Service,6,General,11223625,COOLER NO.1; CENTRAL; CFW; E/R CNTR,722,2
+21-Jan-17,Replace faulty control cable.,"Order and replace faulty control cable for the Hose Reel Station remote control unit.
+
+ISE020 02/03/2017 WOP Dates changed",Repair or replace faulty control cable.,D101,1515,2,Repair,2.5,Breakage,11220900,HOSE REEL STATION NO.2,327,1
+06-May-17,Change Out Air Dryer Inlet and Outlet Filters,Change out filters with spare's in stock,Changed out filters from stock,D101,1515,1,Replace,5.1,Blockage/plugged,11220550,AIR DRYER NO.3; G/S & CTRL AIR SYS; STBD,733,1
+19-May-17,Replace Fan Belts PACU in Electrical Workshop,change out fan belts,change out fan belts,D101,1515,1,Replace,2.5,Breakage,11631291,PSV; PACKAGED A/C;EL W/S;PORT E/R,574,1
+25-Apr-17,c-Node Transponder Battery Changeout,New battery already installed in spare M20 transponder. Needs to be tested prior to going to C-Installer this week. CI survey team/ROV will replace M29 with M20 on seabed. They will then swap out dead M29 battery with a new one from us and test it themselves. M29 will then replace dead M33 on seabed. M33 will be returned to Viking as spare along with dead battery from M29.,Tested,D101,1515,1,Replace,5,General,11618108,HIPAP SYSTEMS,408,5
+13-May-17,Floodlight in middle aft Mud Mod shining down on Moonpool,replace lamp,Replaced lamp in floolight. Previously issued. Did not pull from stock,D101,1515,1,Replace,4,General,11227913,FLOODLIGHT; X-MAS TREE AREA; EEX,893,1
+18-May-17,C15 C&K Leaking-Suspect Valve Stem Packing,Disassemble actuator and replace stem packing,Disassemble actuator and replace stem packing,D101,1515,1,Replace,1.1,Leakage,11256305,"4 1/16"" VLV; GATE;10K;HYD ACTD;LHS;C15",336,1
+18-May-17,Repair Broken Fitting #1 R.O.,replace broken nipple to flow meter on #1 r.o.,change out broken nipple to flow meter,D101,1515,1,Replace,2.5,Breakage,11223603,GEN NO.1; FW; REVERSE OSMOSIS; E/R; CNTR,761,30
+22-May-17,Fault Find leaking injection pipe on MGE1,Find and repair leak,Finding leaks and tightening up injector GooseNecks. Cyl A2 leaking at constant rate. Replaced injection pipe assembly,D101,1515,1,Replace,1.1,Leakage,11238804,MGE SET NO.1; E/R;PORT,651,2
+07-Mar-17,Crane survey Corrective Action - #3 DECK CRANE,complete corrective actions,"A WO is already created in the Hydraulics queque as they have a PO for the expansion joints to be replaced in all 4 DC's
+WO 11400000539
+PO 36687",D101,1515,1,Replace,2.4,Wear,11220271,DECK CRANE NO.3; AFT STBD,361,7
+22-May-17,Replace Hanger Bearing Conveyor 1,Replace Hanger Bearing,Threads worn in hanger bearing allowed bearing to pull out from stud,D101,1515,1,Replace,2.5,Breakage,11220933,CONVEYOR SYSTEM NO.1,326,4
+11-Apr-17,Take out part for HP washers from warehouse.,remaove materials from the warehouse,Parts have been picked up from warehouse.,D101,1515,1,Replace,1.1,Leakage,11223647,HIGH PRESSURE WASHDOWN SYSTEM,444,21
+16-May-17,WNL PCMS 300488616: PBF and high contamination levels,repair as advised by manufacturer,this is already covered by an exisiting warranty claim - bearing wear and satureated water levels have remained constant for sometime,D101,1515,2,Repair,1.2,Vibration,11223570,THRUSTER SYSTEM NO.1; CNTR BOW,404,4
+23-Feb-17,Aux hydratong: replace torque wrench side plate securing bol,"Replace torque wrench side plate securing bolts
+WOP: PO: 30102 Line 4-JAO030",Replaced side support bolts as required.,D101,1515,1,Replace,2.6,Fatigue,11220806,HYDRATONG; ARN 200; AUX WELL,342,15
+06-May-17,Change Out Air Dryer Inlet and Outlet Filters,Change out filters with spare's in stock,Changed out fitlers,D101,1515,1,Replace,1,General,11220548,AIR DRYER NO.1; G/S & CTRL AIR SYS;PORT,733,3
+13-May-17,Fingerboard upper latch sticking,Latch replaced and old latch serviced,Upper Fingerboard Row 15 latch 1 sticking replaced and removed latch overhauled.,D101,1515,1,Replace,1,General,11220856,FINGERBOARD ASSY; UPPER,341,10
+13-May-17,fully function damper,repair damper and test.,Damper functioned properly on second attempt closes properly on subsequent attempts.  Greased damper,D101,1515,7,Service,1.6,Sticking,11220487,DAMPER; PNEUM;SUPP FAN NO.2;CNTR E/R,574,2
+22-May-17,Mud Pump #5 Liner Bushing,assist DFO's removing liner from mud pump,Work with Dfo's removing seized liner bushing,D101,1515,12,Other,1.6,Sticking,11220209,MUD PUMP SYSTEM NO.5,325,11
+22-May-17,Clogged filter alarm,Lube oil filter needs to be changed,Switch pump over to bank A and replaced filter in bank B,D101,1515,1,Replace,6,General,11618699,LUB SYSTEM; MUD PUMP NO.2,325,4
+03-Apr-17,Repair broken welds and damaged cylinder.,Repair welds repair cylinder fitting.,Welds for mounting lugs were repaired. Hydraulic cylinder fitting repaired.,D101,1515,2,Repair,2.5,Breakage,10192766,SLIP LIFTER TOOL; NO.2,344,2
+03-Feb-17,Leaking valve for deluge system shaker house,"Looks like valve is closing past 100% when operated pneumatically. Maybe out of alignment or maybe damaged.
+
+WOP: requisition 276783 (spool valve).","WO Another WO created for ordering parts for Shaker House Deluge Valve
+11400001626",D101,1515,2,Repair,1.1,Leakage,11234132,VLV; 200A;B-FLY;SHAKER UPPER;FIRE SYS,813,1
+20-Apr-17,Troubleshoot cameras on main HR,None of the cameras on main racker is working.,Cameras not working. All cables had broken wires. First we managed to get them working by splitting the spare wires on the spare cable between all the cameras. Finally more wires broke and with no remaining spares we decided to run new cables. Three cables was pulled from JB 202 to JB 203. All cameras on main racker is now working except #3 which is in for repair,D101,1515,2,Repair,2.5,Breakage,11220423,CCTV CAMERAS SYSTEM,348,2
+13-May-17,fully function damper,repair damper,Greased and freed up the damper.  Functioned open/closed properly,D101,1515,7,Service,1.6,Sticking,11220489,DAMPER; PNEUM;SUPP FAN NO.2;STBD E/R,574,2
+13-Apr-17,Send Faulty Actuator Ashore for Service,"Actuator to be sent to the below address for overhaul/repair
+Governor Control Systems Inc.
+3101 SW 3rd Avenue
+Fort Lauderdale
+Florida 33315 USA
+Telephone: 1 (954) 462-7404 Toll Free: 1 (877) 659-6328
+Fax: 1 (954) 761-8768",,D101,1515,,,,,11246387,ACTUATOR; WOODWARD EM300; MGE 1,651,1
+01-May-17,Main TDX traveling block tilt cylinder bracket shims,Re-shim cylinder bracket.,Shims has been reinstalled and secured.,D101,1515,5,Refit,1.3,Clearance/ alignment failure,10911033,BLOCK; TRAVELLING;MAIN,303,5
+20-Apr-17,RAM light out of order,RAM light out of order,Removed and replaced bulb. Light is working normally now. : DBT006 2017.05.16 17:05:06,D101,1515,1,Replace,2.6,Fatigue,11260491,LIGHT; RED;NUC/RAM;DERRICK;UPPER;PORT,427,2
+11-Jan-17,Replace load cells Barite tank#3,Order 4 x new load cells. Install same and calibrate zero. DFO's transfer to tank to verify calibration.,Replaced load cells on the C1C3 Bulk tank.  All load cells are in place and require calibration.  We are now waiting on the calibration Certificates from Manufacture. Certificate were not sent with load cell and are required to calibrate.,D101,1515,1,Replace,6,General,11220865,TANK UNIT NO.3; BULK;BARITE,321,3
+13-May-17,Replace cord on handset for Moonpool phone,Replace cord on handset,replaced handset cord,D101,1515,1,Replace,1.5,Looseness,11222959,TELEPHONE IS; MOONPOOL AREA,425,1
+03-Jan-17,Main Hydratong toll frame up/down cylinder leaking,"Cylinder seals needs to be replaced or replace cylinder itself.
+Seals ordered due mid March - CMD014
+Promised delivery date 11/4/2017 - CMD014",Cylinder removed stripped and new seals fitted. Refitted to equipment and tested ok,D101,1515,2,Repair,1.1,Leakage,11220805,HYDRATONG; ARN 200; MAIN WELL,342,54
+02-May-17,Bad Ballast in Flourescent Fixture,replace lamps,Replaced ballast,D101,1515,1,Replace,2.6,Fatigue,11242063,FL; 2X36W;BATT;WATER MIST RM,891,1
+17-May-17,Install new dies in main HT torque wrench.,replace same,install new dies,D101,1515,1,Replace,2.4,Wear,10191275,TORQUE WRENCH; TW-3/30; TF-975-1,342,5
+28-Mar-17,need jagger pump for shakerhouse.,replace pump,ordering replacement pump,D101,1515,1,Replace,2.4,Wear,11220163,SHALE SHAKER SYSTEM,326,3
+27-Jul-17,Service Eng for STBD  V Sat,"ISE020 14.08.2017
+PR 11400271005 raised for feed assembly",See attached Service report,D101,1515,1,Replace,1,General,11239381,ANTENNA; V-SAT;STBD,424,2
+21-Sep-17,RISER GANTRY CRANE PS114 WINCH 1 LOCK POSITION TRBLSHOOT,PS114 IS NOT CLOSING CONTACT WHEN LOCKING ON THE RISER,R2 pressure transmiter.  Fully operational,D101,1515,1,Replace,3.2,No signal/indication/alarm,11220221,RISER GANTRY CRANE SYSTEM,362,12
+05-Sep-17,JOTRON GMDSS batteries Dead,replace batteries,"WO created to order batteries.
+However previous PO already covering the need wherefore PR un-authorized.
+and this WO can be closed",D101,1515,12,Other,1,General,11232187,GMDSS SYSTEM,421,1
+26-Sep-17,changed wiper rubber,Changed wiper rubber.,Changed wiper rubber.,D101,1515,1,Replace,6.2,Other,12140076,DRILL PIPE - GROUP,351,23
+20-Feb-17,Defective PLC cabinet light fixture for Deck Crane #4,"RHB005  4/1/2017
+Dates changed WOP
+
+RHB005  22/09/2017
+e-mail sent due on the rig shortly
+Dates changed","Defective PLC cabinet light fixture for Deck Crane #4
+Parts received and light replaced - in service
+Remainder of parts (2 complete units) are located in 
+AFt elect W/S on shelf",D101,1515,1,Replace,6,General,11893900,CABINET; CONTROL; CABIN,361,1
+02-Jun-17,Swap out drill line,"Swap out drill line
+PR 11400270476 made for Polar
+PR 11400270477 made for Intermoor",reeved new drill line,D101,1515,1,Replace,2.6,Fatigue,11220194,DRAWWORKS; MAIN AHD 1250,312,9
+09-Aug-17,Damage to door cylinder RH control bracket & pin,Replace cylinder RH control bracket & pin.,"Cylinder linkages removed from a worn set new bushings fitted . New cylinder fitted Full strip down and NDT completed by third party. Tested once rebuilt no issues back in service
+ Once ordered parts arrive on board this work order will be signed off as complete.
+
+Spares arrived and put into stores.",D101,1515,1,Replace,2.5,Breakage,21008243,ELEVATOR:CASING; HYDRAULIC; BX 5; AUX,345,2
+17-Aug-17,Install new 6-5/8 FH saversub for completion operations.,Install new 6-5/8 FH saversub for completion operations.,Install new 6-5/8 FH saversub for completion operations.,D101,1515,1,Replace,1,General,11897210,SAVER SUB; IBOP;PIPEHANDLER;MN TD,313,1
+06-Oct-17,Change out minimess on Actuator,Isolate valve hyd pressures and change out defective minimess.,Change out minimess on Actuator,D101,1515,2,Repair,1,General,10185405,ACTUATOR; HYD;VLV 801-W1/BA538F,801,2
+09-Oct-17,Repair Various doors on the rig.,Assess doors and repair as needed.,"Repaired door on C deck going to Hyd Hose room by removing door adding shims to hinges replacing door and adjusting closer.
+
+Repaired door leading tomake change room from stairwell from U Deck by taking out strike mechanism and filing down strike greasing unit reassembly and adjust door closer. : MAE024 2017.10.10 11:29:40",D101,1515,1,Replace,1,General,11617797,INTERNAL DOORS ; ACCOMODATION - GROUP,512,4
+01-Jun-17,CORRECTIONS FROM INSPECTION REPORT,CORRECTIVE ACTIONS FRON ANNUAL VISUAL INSPECTION,"Lubricated with wire lube on cables.
+Removed corroded chains and installed plastic chains and signs.
+Removed rubbish from legs and removed rust from leg at rig floor level and painted.
+Installed wire lube on HP mud line chains in derrick.
+Removed rust from derrick where corroded in corners at ground cables and installed galvanized paint.",D101,1515,2,Repair,1,General,11220137,DERRICK STRUCTURE SYSTEM; MAIN,301,3
+19-Sep-17,MAIN Hydratong Dolly load hold valve,Replace load hold valve/counterbalance valve.,Main hydratong load hold valve for dolly up/down cylinder was replaced.,D101,1515,1,Replace,1.6,Sticking,11893359,VLV; OVERCENTER; LIFT CYL UP/DOWN,342,1
+19-Sep-17,Exchange the govenor actuator due to high running hours,Remove actuator (s/n 18759948) and replace with new actuator (s/n 17900190),Exchange of govenor actuator due to high running hours on the engine (17400hrs). Mfr reccommends not to exceed 12000. Replace unit with overhauled actuator.,D101,1515,1,Replace,1,General,10182017,GOVERNOR; MGE 4,651,2
+16-Sep-17,Aux HR Main Arm Hose 306 Worn,Replace,Removed & replaced hose,D101,1515,1,Replace,2.4,Wear,11249587,HOSE 306; HYD; GRIPPER JAW; MN ARM,341,1
+25-Sep-17,Mechanical end stop knocked off,Remove sheared bolts. Re-install end stop.,Mechanical end stop knocked off,D101,1515,1,Replace,1,General,11223707,DRILL FLOOR MANIPULATOR ARM DFMA,341,5
+09-Sep-17,Replace leaking Quick Dumps on Lower Chokes - Sept EOW,Replace leaking components,Quick dump valve was replaced with new valve from warehouse.,D101,1515,1,Replace,1.1,Leakage,10193274,"3 1/16"" VLV; DUAL BLOCK FAILSAFE",331,2
+21-Sep-17,Magnetic door holder replacement & new install in galley,Replace magnetic door holder on Door 110 in galley and install new magnetic door holder on door 109 in catering crew mess room,"HOLDERS DOOR MAGNETIC  - galley
+Replaced magnetic door holder on door 110 and install a new one on door 109.
+Rub cables and wire up - tested system / works fine / in service",D101,1515,1,Replace,1,General,11234774,HOLDERS; DOOR MAGNETIC - GROUP,811,1
+04-Apr-17,Abnormal Vibrations Observed on Blower Assy,Replace bearings / motor assy once onboard.,Removed blower motor inspected impeller no damage or loose bolts coupling secure balancing weights present no evidence of any weights missing replaced bearings and test ran slight vibration still present. Found commissioning records and the vibration level was present and within ISO G2.5 level of balance. attached records and info from hunt engine,D101,1515,1,Replace,1.2,Vibration,10182219,BLOWER; MOTOR A;MP5,325,1
+10-Apr-17,Defective Eng No 5 and 6 UPS Battery Packs,"RGB005  10/07/2017
+
+New UPS have shown up. Started replacing UPS No2 for Engs
+
+ISE020 08.08.2017
+UPS's ordered but 120 VAC showed up. Returned it back to manufacturer for correct ones",Replaced ballast. Checks good.,D101,1515,8,Test,4,General,11658839,MGE SETS - GROUP,651,7
+26-Sep-17,FILTER - BACKFLUSH - #1 M/E - 20823 HRS,CHANGE OUT BACKFLUSH FILTER FOR CLEAN SPARE,Filter change (backflush),D101,1515,1,Replace,5.1,Blockage/plugged,12155897,AUTO BACKFLUSH FILTER,651,12
+10-May-17,Failed Control PLC in Switchgear Room Drawworks Cabinet,"RHB005  23/07/2017
+Waiting on access
+Dates changed","Change out PLC from AUX to Main D/W
+Replace Aux D/W PLC when it arrives",D101,1515,1,Replace,1,General,11261211,CABINET B; CTRL; SWGR; AUX AHDW,312,1
+04-Sep-17,Trouble Shoot ER MSD Blower,Need to ISO the unit and pull it apart to do an internal inspection on the unit.,Unit was pulled apart and was found that 2 out of the 4 blades had broken in half and the other two were badly worn. Blades and filter replaced.,D101,1515,1,Replace,2.4,Wear,11223289,BLOWER; AERATION;S/T PLANT;E/R;CNTR,582,1
+26-Sep-17,Change out Mechanical seal on pump,Change out Mechanical seal on pump,Change out Mechanical seal on pump,D101,1515,1,Replace,1.1,Leakage,11255950,PUMP; LINER SPRAY BOOSTER; MP4,325,2
+08-Oct-17,Determine why the riser CWS loses its position and correct.,RISER CATWALK SKATE WOULD NOT GO ALL THE WAY BACK. TESTED THE RISER CATWALK ENCODER AND ENCODER COUPLING TESTED THE REMOTE CONTROL. FOUND OUT THAT THE REMOTE CONTROL EMERGENCY STOP BUTTON WAS FAULTY REPLACED IT TESTED IT ALL GOOD. : IOC002 2017.10.09 09:30:58,RISER CATWALK SKATE WOULD NOT GO ALL THE WAY BACK. TESTED THE RISER CATWALK ENCODER AND ENCODER COUPLING TESTED THE REMOTE CONTROL. FOUND OUT THAT THE REMOTE CONTROL EMERGENCY STOP BUTTON WAS FAULTY REPLACED IT TESTED IT ALL GOOD.,D101,1515,1,Replace,3.1,Control failure,11238182,SKATE; RISER HANDLING CWM,347,2
+23-Aug-17,Loadcells return for repair,Equipment dismatled from structure,Equipment dismatled from structure,D101,1515,10,Overhaul,3.4,Out of adjustment,11220866,TANK UNIT NO.4; BULK;BARITE,321,2
+02-Sep-17,#3 Engine- Clean Fuel Leak Alarm- Suspect A1 A5 B8 leakage,Inspect/repair as required.,Replaced injector HP pipe with new.  Replaced the gooseneck with rebuilt.,D101,1515,1,Replace,1.3,Clearance/ alignment failure,11220415,MAIN DIESEL ENGINE NO.3,651,6
+24-May-17,MCCB 440V Topside FMC bucket downstream clamps,"RHB005  14/07/2017
+Dates moved WOP",Installed downstream clamps for feeder bucket. Checks good for security. Bucket requires a little more effort to insert and lock into position with new clamps but fits as it should.,D101,1515,1,Replace,6,General,11898769,CB; SPARE 01,871,1
+02-Aug-17,Replace Yellow Pod wedge packer for Upper Pipe Rams open,"Replace pod wedge packer. 
+
+When stack was retrieved it was found the associated hose for UPR open was loose and leaking and the pod wedge packer was not the issue.",Suspected pod packer leaking. Upon BOP retrieval pod packer was found to be in good condition and it was actually the jumper hose from Yellow Pod to the UPR Open shuttle valve found leaking from a loose connection. Tighted up the connection and replaced the pod packer anyways.,D101,1515,5,Refit,1.5,Looseness,12179633,POD STAB WEDGE ASSEMBLY,332,1
+09-Sep-17,Replace leaking Quick Dumps on Upper Outer Choke - Sept EOW,reaplce leaking components,Quick dump valve was replaced with new valve from warehouse.,D101,1515,1,Replace,1.1,Leakage,10193276,"3 1/16"" VLV; DUAL BLOCK FAILSAFE",331,1
+13-Sep-17,Replace leaking Quick Dump on LOK - Sept EOW,Replace leaking components,Replaced quick dump valve with new,D101,1515,1,Replace,1.1,Leakage,10193275,"3 1/16"" VLV; DUAL BLOCK FAILSAFE",331,3
+21-May-17,Order Failsafe Stem Protector/Pos. Ind,"Order 1127949 when number is extend into plant.
+5/25: Ordered two for imediate use and will have storeman create in plant.",Stem protectors were taken from spare valve to replace damaged ones. Need to order to replace.,D101,1515,1,Replace,1,General,10201838,DUAL GATE VALVES; FAIL SAFE - GROUP,331,7
+03-Sep-17,K2 to inspect RGC inspection basket,Complete LGS inspection and NDT as required,K2 to inspect RGC inspection basket,D101,1515,9,Inspection,6,General,10182143,BASKET; INSPECTION;RGC,362,2
+19-Sep-17,Create PR for Kongsberg tech for HIPAP service,Arrange for Kongsberg HiPAP tech to attend for troubleshooting and maintenance,Create PR for Kongsberg tech for HIPAP service,D101,1515,7,Service,6.2,Other,11618108,HIPAP SYSTEMS,408,5
+19-Sep-17,Clean drains on rig floor,Clean drains on rig floor,Clean out drains on rig floor,D101,1515,7,Service,1,General,11223647,HIGH PRESSURE WASHDOWN SYSTEM,444,21
+04-Apr-17,Ballast in light is bad and needs to be replaced.,"RHB005  19/07/2017
+WOP
+Dates moved",Replaced ballasts. Checks good. Parts previously ordered,D101,1515,1,Replace,4.3,No power/voltage,11228245,FL; MUD MODULE;SWITCH RM; EEX,893,1
+16-Sep-17,Aux HR UGA Hose 303 worn,Replace hose,"New hose fabricated.
+Removed & replaced hose.",D101,1515,1,Replace,2.4,Wear,11249569,HOSE 303; HYD; VLV; HEAD CLAW CYL,341,1
+01-May-17,MRU sent for calibration,MW DW MRU1 Serial Number 8612 sent to Kongsberg for Calibration,"MRU Serial No 8615 into Main Drawworks Position 3
+MRU 10345 Removed to Stock",D101,1515,1,Replace,1,General,10201630,MOTION REFERENCE SYSTEM; MAIN,312,3
+17-Aug-17,Troubleshoot positioning indicator signal,Routine PM on dampener. Found that as louvers operated the signal did not transmit to turn on the fan.,Investigate damper.  Fan control was set to manual.  Damper open/closed on command.  Switched Fan control to Auto and fan/damper functioned correctly.,D101,1515,6,Check,3.6,Common cause/mode failure,11247330,DAMPER; PNEUM;SUPP FAN NO.2;SACK STORE,576,2
+17-Sep-17,Replace MRU 8614 into Main Draworks MRU 2 Position,Replace MRU 8614 into Main Draworks MRU 2 Position,MRU 6514 into structure in the wrong place returned to store will reissue to correct position in staructure,D101,1515,1,Replace,1,General,10201630,MOTION REFERENCE SYSTEM; MAIN,312,3
+26-Sep-17,Change Mech seal in liner spray pump,Change Mech seal in liner spray pump,Change Mech seal in liner spray pump,D101,1515,1,Replace,1.1,Leakage,11255796,PUMP; LINER SPRAY BOOSTER; MP2,325,2
+17-Sep-17,Install MRU 8618 Into Aux DW MRU2 Structure,Install MRU 8618 Into Aux DW MRU2 Structure,Install MRU 8618 Into Aux DW MRU2 Structure,D101,1515,7,Service,6,General,11891777,MOTION REFERENCE UNIT 2; AUX AHDW (FUNC OBJ),312,2
+17-Aug-17,Position indicator failed to operate,Functioned dampener and found that louvers and louver actuators functioned correctly but positioner indicator would not give a signal to operate fan.,Investigated Damper-- Damper will not fully close and therefore will not indicate closed.  Damper control is seperate from the Fan control.  Tested position switch and all is working correctly.,D101,1515,6,Check,6.3,Unknown,11226986,DAMPER; PNEUM;SUPP FAN;CEMENTER RM,576,2
+20-Sep-17,FWD MASTHEAD(MAIN) LIGHT OUT,FWD Masthead light (MAIN) not functioning - on sub now.,Replaced lamp. Found main breaker flipped off. Turned it back on. Checks good.,D101,1515,1,Replace,4,General,11220177,LIGHTING SYSTEM; NAVIGATION,427,3
+07-Mar-17,Order spare guards for DP lights,Replace Guards on DP Lights drill floor,"LSC DP ALERT SYSDRILLFLOORFWD
+Replaced DP light guards on drillfloor FWD and AFT
+One clear and one amber lenses left are located in elect cage - hyd room",D101,1515,1,Replace,1,General,11261363,LSC; DP ALERT SYS;DRILLFLOOR;FWD,408,2
+09-Oct-17,Fix leak on blue check valve blank flange,Remove flange and replace affected orings.,Removed flange replace affected orings. See pictures for oring damage detail and location detail,D101,1515,1,Replace,1.1,Leakage,10189424,MANIFOLD; 5K;RIGID CONDUIT;LMRP,332,2
+09-Jun-17,Send Motor in for Repair,"Send motor get re-wound
+PR# 11400270537
+GlobalTech
+Motors & Controls Inc
+525 McCarty St
+Houston Tx 77029
+Attention Fernando Osornia",send motor in for repair,D101,1515,10,Overhaul,2.5,Breakage,11246407,PUMP; PRELUBE OIL; EL DRIVEN; MGE 1,651,4
+16-Sep-17,Roller worn on upper guide arm pipe detector,Repair/replace roller.,Replaced UGA pipe detector roller and bushings.,D101,1515,1,Replace,2.4,Wear,10182087,UPPER GUIDE ARM; HYDRARACKER MAIN,341,2
+26-Sep-17,PACU IN ENG STORES NON-FUNCTIONAL,"1136445
+EXCHANGE GAUGE
+CHARGE SYSTEM
+ADD LEAK DETECTION FLUID","EXCHANGE GAUGE
+CHARGE SYSTEM
+ADD LEAK DETECTION FLUID",D101,1515,1,Replace,1.1,Leakage,11220448,A/C; PACKAGED; ENGINEERS STORE,574,1
+30-Sep-17,Burst hose,Fabricate new hose with Nylon protective sleeve. Replace worn hose with fabricated hose.,Burst hose,D101,1515,1,Replace,1.1,Leakage,11249122,HOSE 444; HYD; MTR 1;UPP TROLLEY DRV;BRK,341,1
+25-Sep-17,BOP HPU skid change filters,BOP HPU skid change filters,BOP HPU skid change filters,D101,1515,1,Replace,1,General,11895814,HPU SKID; BOP CONTROL,332,8
+03-Sep-17,Impeller to be changed out on mix pump 3.,replace impeller,change worn impeller,D101,1515,1,Replace,2.4,Wear,11220823,PUMP NO.3; CENTRIF; MUD; MIXING,324,3
+14-Sep-17,Change dies,duplication wo,changed dies,D101,1515,1,Replace,1,General,10189875,ROTARY SLIPS - GROUP,344,13
+26-Sep-17,PACU FAULTY - LOW FREON PRESSURE,"REPLACE LOW PRESSURE GAUGE
+CHARGE UNIT WITH 5KG R-404a REFRIGERANT - LOG OUT IN LOGBOOK
+CAHNGE AIR FILTER FRAMES/FILTERS","REPAIR PACU UNIT:
+LP GAUGE
+AIR FILTER FRAMES
+CHARGE UNIT
+ADD DYE LEAK FLUID TO SYSTEM",D101,1515,1,Replace,1.1,Leakage,11220447,A/C; PACKAGED; ENG RM W/S,574,2
+19-Aug-17,DFMA remote control not working.,ETs to investigate,Replaced antenna and re-tested okay; material tracked under duplicate WO,D101,1515,1,Replace,2.5,Breakage,11890107,AERIAL; RADIO REMOTE CONTROL FOR DFMA,341,1
+30-Aug-17,Main Well Hydra Racker uncontrolled movement,Investigate why jerky movments and small movment with out command,No problem found. Looks as if it was air in the system due to the changing of hydraulic hoses,D101,1515,6,Check,6,General,11220258,HYDRARACKER; MAIN; PIPEHANDLING SYSTEM,341,29
+23-Aug-17,Dismantle Equip from structure,Equipment dismatled from structure,Equipment dismatled from structure,D101,1515,10,Overhaul,3.4,Out of adjustment,11220865,TANK UNIT NO.3; BULK;BARITE,321,3
+09-Sep-17,Repair of Pipe Skate Remote,Inspect connections and replace button.,Found one ribbon cable loose inside remote. Connected it and checked all other connections in remote. Also found a bit of moisture inside. Dried it out. Replaced broken boots. Connected the remote to test box and function tested it. All good.,D101,1515,2,Repair,1,General,11262616,PANEL; RADIO REMOTE;SHUTTLE;CWM,342,5
+01-Aug-16,Nav Deck Faucet leaking,*repair faucet,repair faucet,D101,1515,1,Replace,1,General,11261891,GALLEY; UPPER DECK,281,1
+05-Jun-17,Main Eng UPS replacment,Replace the outstanding UPS in the Main Engs All ME UPS's replaced with new ones,All ME UPS's replaced with new ones,D101,1515,1,Replace,3.1,Control failure,11658839,MGE SETS - GROUP,651,7
+10-Sep-17,#3 Engine- LT JW Pump Leak- Change Mech. Seal,Change out LT pump mechanical seal. Timing of work to coincide with prelube pump motor replacement and cylinder B8 clean fuel leak repair. (WO's 11400002345- Prelube pump motor 11400002325- B8 clean fuel leak),Replace mechanical seal in LT pump #3 engine,D101,1515,1,Replace,1.1,Leakage,11246706,PUMP; L/T; ENGINE DRIVEN; MGE 3,651,2
+09-Sep-17,Sept 2017 EOW - Replace Upper Kill Failsafe Dual Block,Upper Kill Dual Block Serial Number A-28657 was changed out with new. Serial Number A-31534 was installed. COC and operator test chart attached to WO.,During pressure testing on August 6th 2017 it was determined UIK actuator was bad. Plan was to change one dual failsafe block as per 5 year plan during Sept EOW. However with UIK failure decision was made to change Upper Kill. Upper Kill Dual Block Serial Number A-28657 was changed out with new. Serial Number A-31534 was installed. COC and operator test chart attached to WO.,GSS01,#N/A,1,Replace,1.6,Sticking,10193277,"3 1/16"" VLV; DUAL BLOCK FAILSAFE",331,2
+06-Oct-17,Change filters RO1,Change filters,Change RO1 filters,D101,1515,1,Replace,6,General,11223603,GEN NO.1; FW; REVERSE OSMOSIS; E/R; CNTR,761,30
+20-Sep-17,Rebuild Upper Annular SPM valve,Rebuild SPM#17 on blue pod,Rebuilt SPM #17 with repair kit,D101,1515,10,Overhaul,1.1,Leakage,11895290,"1 1/2"" VLV; SPM;UPPER ANNULAR OPEN",332,1
+02-Oct-17,CUPBOARDS HOTBAINE MARIE - switch replacement,Switch replaced with new one,"CUPBOARDS HOTBAINE MARIE - switch replacement
+Replaced switch with new one - working good",D101,1515,1,Replace,4,General,11223739,CUPBOARDS; HOT;BAINE MARIE - GROUP,551,1
+17-Mar-17,Corrective Actions as per Drops survey BOP Gantry Crane,"Replace bumper with new
+
+Evaluate need for handrail repair.",Replaced rubber bumper,D101,1515,1,Replace,2.4,Wear,11220222,CRANE; GANTRY; BOP; 2 X 240 T,364,5
+17-Oct-17,Load cell verification on KBC #2,function test crane load cell to confirm accuracy,Crane lifted weight and verified that crane loadcell had a weight readout simmilar to external known weight and load cell.  Pictures attached,D101,1515,6,Check,3.4,Out of adjustment,11258734,LOAD CELL; MAIN WINCH; DK CRANE NO.2,361,1
+17-Oct-17,Load test of fwd x-mas tree wire,load test winch with water bag,Waterbags filled to required weights and documented by attached pictures.,D101,1515,6,Check,3.4,Out of adjustment,12167831,WIRE;WINCH; MAIN; X-MAS TREE CRANE; FWD,364,1
+01-Apr-17,UPS Main Eng's,Replace Batteries and UPS units,New UPS and Battery pack installed.,D101,1515,1,Replace,4.3,No power/voltage,11220727,UPS BATTERIES - GROUP,866,5
+28-Sep-17,Clean crossflow heater,Heater appears to be dirty causing issues with the purifier.,Clean crossflow heater,D101,1515,2,Repair,1,General,10177059,HEATER; CROSSFLOW;PRFR UNIT NO.2;PORT,712,2
+03-Oct-17,CHANGE OUT FILTER,exchange filter,changed out filter,D101,1515,1,Replace,5.1,Blockage/plugged,11223600,UV STERILIZER NO.3; SYSTEM; CNTR,581,2
+03-Oct-17,Replace HP pump inlet pressure gauge,Replace HP pump inlet pressure gauge,Replaced gauge with new,D101,1515,1,Replace,1,General,11223604,GEN NO.2; FW; REVERSE OSMOSIS; E/R; CNTR,761,31
+03-Oct-17,Replace HP pump inlet pressure gauge,HP pump inlet pressure gauge needs replacement.,Installed new gauge,D101,1515,1,Replace,1,General,11223603,GEN NO.1; FW; REVERSE OSMOSIS; E/R; CNTR,761,30
+19-Sep-17,Change Power supply,Fan stopped running on power supply causing PC to run Hot.  Power supply requires replacement.,POWER SUPPLY TO BE REPLACED,D101,1515,1,Replace,2.5,Breakage,11238964,OS NO.1; HIPAP;W/H,408,2
+26-Sep-17,FILTER - BACKFLUSH & CANDLES - #2 M/E 13267 HRS,"CHANGE OUT SINGLE BACKFLUSH FILTER +  FULL SET OF CANDLE FILTERS.
+REPLACE WITH CLEAN SPARES.",Filters changed,D101,1515,1,Replace,5.1,Blockage/plugged,12155898,AUTO BACKFLUSH FILTER,651,3
+04-Oct-17,REPLACE PRIMARY STORAGE HARD DISK,FAILED HARD DISK NUMBER 15 HAS TO BE REPLACED,THE TWO FAILED HARD DISKS HAVE BEEN REPLACED.,D101,1515,1,Replace,2.5,Breakage,11239128,CABINET; MAIN SERVER;ADM NET,423,3
+20-Jul-17,Barite Load Cell C Change out,"Remove old sensor from Structure and place new sensor in structure
+
+ISE020 07.08.2017  Dates moved waiting for IFS PN
+
+ISE020; ELSUP; 01.10.2017
+IFS structure updated
+
+Waiting on spare to be delivered",IFS structure updated,D101,1515,12,Other,6.2,Other,11220866,TANK UNIT NO.4; BULK;BARITE,321,2
+01-Oct-17,Displacement Indicator Seal Leakage,"Replace displacement indicator with new from free-stock (white cabinet in port engine room)
+Rebuild removed unit and place with the other rebuilts
+Add oil to HPU",O-Ring shaft seal failure on the indicator. Repalce with new unit rebuild the old.,D101,1515,10,Overhaul,1.1,Leakage,11232495,PUMP B; HYD STEERING SYS; CNTR BOW THR,404,2
+03-Oct-17,CRANE 3 MOTOROLA RADIO POWER SUPPLY REPLACEMENT,CRANE 3 MOTOROLA RADIO POWER SUPPLY REPLACEMENT,MOTOROLA RADIO STATION POWER SUPPLY IS FAULTY AND IT HAS TO BE REPLACED.,D101,1515,1,Replace,2.5,Breakage,10181949,CABIN; DK CRANE NO.3,361,1
+09-Apr-17,Main Eng UPS Battery Pack Replacment,Replace battery Packs,Battery packs replaced,D101,1515,1,Replace,4.4,Faulty power/voltage,11658839,MGE SETS - GROUP,651,7
+21-Mar-17,Replace tool frame accumulator on Main & Aux HT WOP,"JAO030-7/24/2017- WOP accumulators x2 PO: 36687 Line3.
+
+Due delivery 8 Sept 2017. 
+Part 1106934 received onboard  30.09.2017.",no longer required due to hydratong replacement,D101,1515,12,Other,1,General,11220806,HYDRATONG; ARN 200; AUX WELL,342,15
+09-Sep-17,HP washdown equipment for deck - general WO for part issue,replace broken parts,HP washdown equipment for deck,D101,1515,1,Replace,1,General,11223647,HIGH PRESSURE WASHDOWN SYSTEM,444,21
+03-Oct-17,Overhaul SW cooling pump thruster 2,change bearings,Change bearings and mech seal,D101,1515,1,Replace,1,General,11235279,PUMP; CSW PUMP UNIT NO.1; T/R PORT BOW,721,1
+04-Oct-17,3-WAY VALVE NOT ROTATING,REPLACE COIL,BURNT SOLENOID COIL,D101,1515,1,Replace,4.2,Open circuit,11220549,AIR DRYER NO.2; G/S & CTRL AIR SYS;PORT,733,4
+29-Aug-17,Expansion tank is not work as intended,Tank replaced. System topped up and pressurized. Seems to hold pressure.,Replaced tank with new one. Adjusted the pressure in the tank o 0.4bar. Charges the system and it is working as expected,D101,1515,1,Replace,2.8,Burst,10188671,SECTION; DDU; LIQUID COOLING; FRONT,867,1
+01-Oct-17,Measure backlash,Check backlash is .48mm. Adjust clearance.,Motor D and C clearance excessive both adjusted to correct tolerance. Motor A and B found to be correct.  Crane tested and crane operators report jerky movement has stopped and crane slewing performance shows marked improvement.,D101,1515,4,Adjust,1.3,Clearance/ alignment failure,11618054,SLEWING SYSTEM; DK CRANE NO.3,361,1
+13-May-17,Replace faulty Microphone,"PA Microphone has erratic output.  Intermittent fault in microphone switch.  Switch is sealed type.  New microphone to be ordered.
+
+
+RHB005  15/09/2017Dates moved WOP","PA Microphone has erratic output.  Intermittent fault in microphone switch.  Switch is sealed type.  New microphone to be ordered.
+Mic arrived and installed",D101,1515,1,Replace,6.2,Other,11239448,PANEL; REMOTE CTRL;PA,425,1
+26-Aug-17,Main on/off switch faulty,repair faulty switch on the remote control,PROTECTION BUTTON BOOTS AND ON/OFF TOGGLE SWITCH HAVE BEEN REPLACED ALL GOOD.,D101,1515,1,Replace,2.4,Wear,11255302,PANEL; CONTROL; BASKET; SAB,317,1
+02-Oct-17,Replace battery packs in outdoor emergency fixtures,Replace battery packs in outdoor emergency fixtures,Replaced battery packs in light fixtures,D101,1515,1,Replace,4,General,10201792,EEX LIGHTING SYSTEM; DRILLING - GROUP,893,3
+28-Oct-16,Installation of Drains on Steering Pmps,install monitoring fittings,install drain valves,D101,1515,12,Other,6.2,Other,11658838,AZIMUTH THRUSTERS - GROUP,404,2
+03-Oct-17,Abnormal Noise Emitting from Pump Set,Overhaul and inspect motor and pump assembly. Pictures to be taken and recorded within WO,,D101,1515,,,,,11232920,PUMP UNIT NO.1; CENTRAL;CSW;T/R PORT BOW,721,1
+06-Oct-17,troubleshoot and adj.timers and press. on U-deck press. wsh,adj. timing and press. as required.,"Pressure washer reported being out of adjustment and not operational after maintenance was performed.  After consulting manual the pressure washer was set to the original factory settings of 2500psi and 15 second no flow cut off timer.  
+Unfortunately due to a leaking pressure switch the unit cannot be run in auto.  I will dip below the 100 bar set point and auto start. Parts to be ordered.",D101,1515,4,Adjust,3.4,Out of adjustment,12174776,PRESSURE WASHER; ELECTRICALLY HEATED;U-DECK,444,5
+06-Oct-17,Back flushing engine room CFW coolers,backflush as required,"Coolers found to be operating in parallel with one engine running at roughly 30% load. At this load both coolers were showing 100% cooling and still not maintaining desired set point.  
+In an attempt to run one singular cooler and prep for possible stacking mode in the near future coolers are being back flushed with 2 CSW pumps on high speed for 24 hours.",D101,1515,12,Other,1,General,11223625,COOLER NO.1; CENTRAL; CFW; E/R CNTR,722,2
+16-Jan-18,Bad ballast in light outside ballast pump room,replace ballast,Replaced ballast. Checks good.,D101,1515,1,Replace,4.2,Open circuit,11227709,FL; CASING STRG;WELL LOGGING UNIT; EEX,893,1
+16-Jan-18,Rebuild 2 DO supply pumps,.,"Rebuilt one DO pump new bearing and mechanical seal.
+The second pump has a new bearing and seal does not need to be rebuilt",D101,1515,7,Service,1.1,Leakage,11232303,PUMP UNIT NO.2; MDO;SUPPLY;E/R;PORT,703,2
+19-Jan-18,Replace recirculation pump filter,Replace filter on recirculation pump.,Replace recirculation pump suction filter,D101,1515,1,Replace,5.2,Contamination,11895813,FLUID RESERVOIR UNIT; FRU SKID,332,6
+09-Dec-17,Remote not working,repair remote,"joystick replaced.
+ All good now.",D101,1515,1,Replace,3,General,11262616,PANEL; RADIO REMOTE;SHUTTLE;CWM,342,5
+03-Jan-18,UV STERILIZER No2 FWD: INSTALL NEW SOLENOID VALVE,Purchase and install new solenoid valve.,Replace faulty pilot assembly,D101,1515,1,Replace,2.2,Corrosion,11224492,SOLENOID VLV; UV STERILIZIER NO.2; FWD,581,3
+12-Jan-18,Leaking operating water hose,Replace parst as required,"Found the solenoid coil for SV16- closing water to have failed.  Relaced with spare from an already used water block kit.
+Opened the purifier and removed the paring tube as the arm sticks at times to cause a PT5 alarm.  Adjusted the arm and installed a new spring.
+
+Tested SAT all in apparent good working order.",D101,1515,1,Replace,4,General,11223585,PURIFIER UNIT NO.3; FUEL OIL;E/R;STBD,702,3
+16-Jan-18,Replace DO supply pump with new,.,Replaced pump with new,D101,1515,1,Replace,1.1,Leakage,11232303,PUMP UNIT NO.2; MDO;SUPPLY;E/R;PORT,703,2
+14-Jan-17,Make-up a New Pipe to Replace Temp Doubler Plate,During Tech Inspection Informed that current set up is only good for a temp repair and that we need to make a new one to replace the one currently in service.,"fabricated new section of piping but will not last too long as we only had sch 40 piping available to do so material request will be put in for  5"" short  radius 90 an also T section JIS style flanges have allready been ordered .",D101,1515,1,Replace,1.1,Leakage,11618307,CSW SYS; CFW CENTRAL COOLER;T/R STBD BOW,721,2
+13-Jan-18,Replace H/T Expansion Joint before pump,replace H/T expansion joint,Replace H/T Expansion Joint before pump,D101,1515,1,Replace,1,General,11618216,ENGINE COOLING WATER SYSTEM; MGE 2,651,1
+25-Dec-17,Change bearing on galley AHU#1 NDE,CHnage bearing and grease nipple.,,D101,1515,,,,,11220554,AHU NO.4; HVAC; GALLEY,572,1
+01-Nov-17,Order M/E Flexible Hoses (Control Air Inlet JW Drain),IFS #'s extended from Valiant to Viking. Order spares and replace hoses on #5 and #2 engines. See Req. #11400271634,Order hoses,D101,1515,12,Other,2.6,Fatigue,11238548,MGE SET NO.5; E/R;STBD,651,1
+13-Jan-18,Replace Mechanical Seal on H/T Pump,replace mechanical seal,Replace Mechanical Seal on H/T Pump,D101,1515,1,Replace,1.1,Leakage,11246579,PUMP; H/T; ENGINE DRIVEN; MGE 2,651,1
+18-Sep-17,Order grating to replace missing pieces on BOP and fasteners,,,D101,1515,,,,,11247984,"BOP; 18 3/4"";15000PSI",331,12
+18-Jan-18,Replace head pipe pushers,Remove & replace head pipe pusher cylinders,changed out pipe pusher cylinders,D101,1515,1,Replace,2.5,Breakage,10182087,UPPER GUIDE ARM; HYDRARACKER MAIN,341,2
+15-Jan-18,Water Observed Leaking Out on Top,Remove uppoer solenoid valve assembly and repair as required.,"Completed
+Removed the solenoid  and upper valve assembly. Observed calcium build-up within the valve body and components. This likely caused water to leak past o-rings due to incorrect seal. Cleaned up the o-ring interface surfaces and lubricated the o-rings. Re-assembled. No leakage observed.
+
+Recommend all remaining valve be dis-mantled and cleaned on a 3-5 yearly basis.",D101,1515,7,Service,1.1,Leakage,11238533,VLV M13; MACH SECTION;MAIN ENGINES;PORT,815,1
+01-Dec-17,Replace spinning wrench rollers,Replace spinner wqrench rollers.,Two spinning wrench rollers have been replaced. New upper and lower bearings have been installed.,D101,1515,1,Replace,2.4,Wear,11238160,TOOL FRAME; TF-975-1; HYDRATONG; MN WELL,342,2
+10-Sep-17,#2 G/S Air Compressor- Install new transformer T1,Install new transformer when available onboard.,Repaired transformer pulled from #1. Installed in #2. Waiting for parts to install in #2 and bring it back online to check transformer.,D101,1515,2,Repair,4.1,Short circuiting,11223596,COMPRESSOR NO.2; G/S & CTRL AIR SYS;PORT,733,6
+19-Nov-17,Repair / Replace Safety Relief Valve 11238507,Replace valve 11238507 with new & repair remove valve,replace leaking safety valve on water mist sytem,D101,1515,1,Replace,2.2,Corrosion,11238504,PUMP SET NO.1; WATER MIST SYSTEM,815,2
+18-Feb-17,Speaker is not working and keypad need to be replaced,canx,Work order closed. Waiting to collect all defect radios and then we will raise new work order,D101,1515,12,Other,4,General,11234777,RADIO COMMUNICATION SYSTEM TETRA,424,3
+03-Dec-17,Replace crushed & worn hose,Replace 2 hoses on stbd cylinder,remove & replace 2 hoses,D101,1515,1,Replace,1.4,Deformation,10182322,TILT RAMP; PIPEHANDLING CWM,342,1
+24-Aug-17,Replace proximity switch,Remove and replace proximity switch,PROXIMITY SWITCH AND CABLE HAS BEEN REPLACED TESTED ALL GOOD.,D101,1515,1,Replace,2.5,Breakage,11249730,SWITCH; POS;GUIDE ARM LOCKED,347,3
+29-Nov-17,Replace flanged bushings on center rotation,replace bushing center rotation pin.,Replace flanged bushings on center rotation,D101,1515,1,Replace,2.4,Wear,11897391,SKID BASE; HYDRATONG; MN WELL,342,2
+16-Apr-17,Order Spare Tumble Dryer for stock,Tumble Dryer drum is slowly detiriorating. Entire dryer will need to be replaced soon.,order new mqachine,D101,1515,1,Replace,2.5,Breakage,11223764,TUMBLE DRYERS; 14KG - GROUP,558,1
+20-Nov-16,pm on MP #3  changed 5 valves5seats5springs6 gaskets,perform montly pm on mud pump #3 replaced parts as required,performed pm on mp #1 changed out damaged parts,D101,1515,1,Replace,2.4,Wear,11220205,MUD PUMP SYSTEM NO.1,325,18
+28-Nov-16,test for oil sample,,,D101,1515,,,,,11232356,STEERING POWER PACK; CNTR STERN THR,404,1
+04-Aug-16,Order CJC floats,Floats Replaced,Floats arrived onboard and installed,D101,1515,1,Replace,3,General,11658838,AZIMUTH THRUSTERS - GROUP,404,2
+20-Aug-16,Leak at Davit #1.,tightened fitting to stop oil leak,tightened fitting on accummulator to see if this stops very slight oil leak,D101,1515,2,Repair,1.1,Leakage,11220366,DAVIT FOR LIFEBOAT NO.1,501,2
+24-May-16,PA B SYSTEM CIRCUIT 12 FAULT,repaired earth fault on PAGA,checked PABA and system shows no faults,D101,1515,6,Check,3,General,11220229,PA/GA SYSTEM PUBLIC ADDRESS&GEN ALARM,425,1
+21-Nov-16,Fingerboard latch do not working,Replaced latch,Latch replaced,D101,1515,1,Replace,1.4,Deformation,11220856,FINGERBOARD ASSY; UPPER,341,10
+28-Jul-16,Treadmill Lexco replace PCB's,Replaced input card,"Replaced damaged board with the board from the old running machine
+Working correctly",D101,1515,1,Replace,1,General,12122194,GYM EQUIPMENT - GROUP,546,1
+20-Nov-16,Motor No.2 heater is not ON while crane is OFF,Inspect motor heater and rectify fault,Heater relay for Motor #2 isn't energized indicating the heater is off which should be on when motor isn't running,D101,1515,2,Repair,3.3,Faulty signal/indication/alarm,11898658,CB; KNUCKLE BOOM CRANE NO.1; MOTOR NO.2,871,1
+21-Nov-16,#3 F.O. Purifier parts consumed (transitional W.O.),Replace bearing and overhaul,Charged materials to W.O. to account for parts used on previous W.O. 36992,D101,1515,2,Repair,2.4,Wear,11223585,PURIFIER UNIT NO.3; FUEL OIL;E/R;STBD,702,3
+18-Nov-16,fluid end change on MP5.,changed out all valves and seats and all cap gaskets.,change out valves and seats,D101,1515,1,Replace,1.1,Leakage,11220209,MUD PUMP SYSTEM NO.5,325,11
+06-Nov-16,Change dies,changed dies,changed dies,D101,1515,1,Replace,1,General,11897172,GRIPPER; PIPEHANDLER;MAIN TD,313,3
+04-Dec-16,Mess Deck Coffee Machine #2 will not heat up.,replaced faulty element,Fault finding on coffee machine. Will replace heating element. WIP Replaced heating element. Have the boiler installed still need to hook up water lines and electric connections. Reinstalled the water ines and reconnected all wires. Ran up system and it checks good.,D101,1515,1,Replace,4,General,11224152,COFFEE MACHINE; MESS ROOM,551,2
+04-Oct-16,Finger sticking,Latch replaced,Latch 2 changed on row 10 of upper fingerboard,D101,1515,1,Replace,1.6,Sticking,11220856,FINGERBOARD ASSY; UPPER,341,10
+21-Nov-16,Change out dies,Change out dies,Done,D101,1515,1,Replace,2.4,Wear,11220805,HYDRATONG; ARN 200; MAIN WELL,342,54
+05-Oct-16,Mechanical Seal Showing Signs of Failure,no action taken, action taken at this timeas pump has stopped leaking,D101,1515,8,Test,1.1,Leakage,11223627,PUMP UNIT; BALLAST;BILGE&G/S;E/R;STBD,801,2
+28-Nov-16,ORDER AND PUT IN USE NEW 6 7/8 SDHL HANDLSLIPS,,,D101,1515,,,,,10189875,ROTARY SLIPS - GROUP,344,13
+26-Mar-15,*,replace faulty components under warranty,Valve spool (IFS Inventory Part # 1137828) received under warranty and installed. System tested by AMSL and confirmed to work o.k.,D101,1515,1,Replace,2.2,Corrosion,11260466,PCV; 6 BAR;SHALE SHAKER UPPER;DELUGE,813,1
+08-Feb-16,Forecastle & Aft Mooring Deck,Have SHI perform actions to install proper space coating.,Tank coating issues were submitted to SHI for correction. Although this warranty work was rejected by SHI Maersk has continued ongoing discussions with regard to this work.,D101,1515,12,Other,6.2,Other,11261872,UPPER DECK; ACCOMODATION EL 19000,281,1
+06-Dec-16,Damper will not fully close,lubricate,removed actuator lubricated and freed up linkage blades,D101,1515,7,Service,1.6,Sticking,11247345,DAMPER; PNEUM;SUPP FAN NO.1;SH SHKR RM,575,1
+25-Oct-16,Parts for damaged barrel PS30s*rebuild,changed and overhauled hydraulic cylinder,Housing relaced,D101,1515,1,Replace,2.4,Wear,10192737,"SLIP ASSY; 500T; 2.3/8"" - 10.3/4""",344,4
+06-Dec-16,Had to replace victaulic gaskets,Replace victaulic gaskets while inspecting CCB discharge lines.,gaskets replaced,D101,1515,1,Replace,1.1,Leakage,11221030,CUTTINGS BLOWER UNIT NO.1,326,7
+28-Nov-16,Water booster pump leaking.,change out the failed pump,Replace pump.,D101,1515,1,Replace,1.1,Leakage,11220805,HYDRATONG; ARN 200; MAIN WELL,342,54
+24-Nov-16,change dies on MW hydratong.,change out dies.,change dies on the hydratong,D101,1515,1,Replace,2.4,Wear,11220805,HYDRATONG; ARN 200; MAIN WELL,342,54
+07-Aug-16,Riser catwalk trolley bucket Cracked,bucket removed and replaced with the one from the Valiant Vikings bucket landed ashore for repair and then returned to Valiant,bucket had cracks in the welds identified on its pivot pins was removed and replaced with the one from Valiant. When Viking's bucket has been repaired this is to be sent to the Valiant,D101,1515,2,Repair,2.5,Breakage,11220317,CATWALK; RISER HANDLING,347,14
+21-Nov-16,RO1 defective pipe,Replace pipe with spare,Replaced with spare,D101,1515,1,Replace,1.1,Leakage,11223603,GEN NO.1; FW; REVERSE OSMOSIS; E/R; CNTR,761,30
+29-Nov-16,BOP HPU Panametrics Flow Meter not reading flow,set up trasducers order GE clamp for the transducers,Check intrument settings run calibration and repoistion the transducers,D101,1515,2,Repair,4,General,12179724,HPU HYDRAULIC CONTROL,332,1
+08-Nov-16,AUX Hydraracker main armcylinder leaking,Cylinder replaced old cylinder overhauled and full seal change out completed.,Hydraulic cylider has been replaced. Old hydraulic cylider had new seals instaled in end cap.,D101,1515,1,Replace,1.1,Leakage,11220259,HYDRARACKER; AUX; PIPEHANDLING SYSTEM,341,12
+30-Nov-16,overhaul delta booster pump,pumping leaking water o-rings and gaskets need replaced,overhauled pump with new o-ring and gasket kit,D101,1515,10,Overhaul,1.1,Leakage,10186532,PUMP NO.3; CENTRIF;DELTA BOOSTER UNIT,444,1
+28-Nov-16,Rebuild spare booster pump.,Replace seals.,Rebuild pump,D101,1515,10,Overhaul,1.1,Leakage,11238167,PUMP; DIAPHRAGM; BOOSTER UNIT,342,4
+28-Nov-16,Shaker House handset intermittent fault.,repalced with spare handset,Replaced the handset in the shaker house with a spare we had in the electrical workshop. Checked the operation of the telephone; everything checks good. No need to issue part against this work order since it did not come from the warehouse.,D101,1515,1,Replace,2.5,Breakage,11261476,TELEPHONE; MUD CTRL ROOM,425,1
+24-Nov-16,Row 42 latch no3 lower fingerboard missfunction,changed out finger latch,Latch 3 on row 42 replaced,D101,1515,1,Replace,1.4,Deformation,11893120,FINGERBOARD 7,341,2
+21-Nov-16,Replace MP valves and seats,Replace valves and seats,"completed changing out valves and seats
+ : FTE031 2016.12.04 03:43:08",D101,1515,1,Replace,2.4,Wear,11220209,MUD PUMP SYSTEM NO.5,325,11
+02-Dec-16,replace hydratong dies,replace dies,changed out dies.,D101,1515,1,Replace,6,General,11220806,HYDRATONG; ARN 200; AUX WELL,342,15
+20-Nov-16,Hydratong Aux no movement on torque jaws,completed fault finding and repair,Investigate why jaws do not move. Fault found hydraulic valve block for upper torqe wrench needs to be replaced.,D101,1515,2,Repair,4.2,Open circuit,11220806,HYDRATONG; ARN 200; AUX WELL,342,15
+31-Oct-16,car door malfunction,repaired,"car door malfunction
+31.10.2016 11:42:17 James Nolon Royston (JNR004)
+inner door for elevator wouldnt close.troubleshooting revealed bad
+connection for door open limit switch loose in connector that
+plugged into door closing PCB. re-termed wires in connector tested put
+back in service",D101,1515,2,Repair,3.1,Control failure,11220555,PERSONNEL ELEVATOR SYSTEM NO.1,561,3
+10-Oct-16,Order sensor for spare HR Guide Head,not required,part ordered but cancelled - already in stock,D101,1515,12,Other,6,General,11238131,"GUIDE HEAD 2 7/8""-14""; HYDRARACKER MAIN",341,1
+20-Nov-16,Change hospital sink faucet,replace broken water hose,Changed sink faucet in medic sink after several lines split,D101,1515,1,Replace,1.1,Leakage,11261920,HOSPITAL; A DECK,281,1
+23-Nov-16,SD Port Aft E/R faulty,change sensor,replaced sensor but it was the wrong type ordered the proper replacement,D101,1515,1,Replace,3,General,11241052,DETECTOR; SMOKE/HEAT;WT;PORT E/R,811,3
+15-Aug-16,Repair Aux Lower Guide Head,sent equipment ashore for repair,equipmetn sent ashore for repair and then forwarded to Valiant as we had borrowed theirs to continue operations,D101,1515,2,Repair,1.4,Deformation,11238142,"GUIDE HEAD 2 7/8""-14""; HYDRARACKER AUX",341,1
+07-Dec-16,pressure washer handle for the rig floor.,replace handle,handle broken,D101,1515,1,Replace,1.1,Leakage,11237713,SPRAY HANDLE; WASHDOWN SYSTEM,444,3
+03-Jan-17,Replace sticking latches,replace or repair faulty latches,Fingers checked greased and lubricated. Latch 4 on row 35 and latch 1 on row 17 replaced.,D101,1515,1,Replace,1.6,Sticking,11220856,FINGERBOARD ASSY; UPPER,341,10
+18-Nov-16,Solienoid Valve Re-Gen Not Working Properly,Change out the Solinoid for Tower B,The Old coil had melted and needed to be replaced,D101,1515,1,Replace,1.6,Sticking,11220548,AIR DRYER NO.1; G/S & CTRL AIR SYS;PORT,733,3
+18-Nov-16,Replace washing machine #4,Replace Washing Machine,Replaced the washing machine with a new spare.  Stripped all useful mech and elect. parts from old macine.,D101,1515,1,Replace,1.2,Vibration,11223815,WASHER EXTRACTOR NO.4; 20KG;LAUNDRY,558,2
+26-Nov-16,Investigate and trace where cooling water is escaping from.,Isolate drive and carry out inspection of all sections. Trace leak and repair.,Isolated the drive and inspected for leaks. None found.,D101,1515,9,Inspection,1.1,Leakage,12167730,WATER COOLING UNIT 3; VFC 3,867,1
+20-Dec-16,Place PSV into Structure,Insert correct PSV into structure,Insert correct PSV into structure,D101,1515,10,Overhaul,6.2,Other,11631296,PIPING; WCCU NO.1;TOPSIDE - GROUP,574,3
+08-Dec-16,Bracket for pin bolts loose.,Remove drill bolt heads and reinstall with nordlock and safety wire bolt heads as secondary retention.,Drilled holes in bolt heads and installed with nordlock and safety wired bolts for secondary retention. Rows 31-34 upper FB level. Stbd end of FB only.,D101,1515,2,Repair,1.2,Vibration,11893078,FINGERBOARD 6,341,2
+10-Dec-16,WFI SYSTEM TROUBLESHOOTING,"ALL SYSTEM DEVICES ACCESSED AND FUNCTION CHECKED CONTACTED RADIO HOLLAND FOR REMOTE IN ONGOING.
+After troubleshooting the tech found the incorrect firmware in the switch.  Made proper corrections and the system is operational.","ALL SYSTEM DEVICES ACCESSED AND FUNCTION CHECKED CONTACTED RADIO HOLLAND FOR REMOTE IN ONGOING.
+After troubleshooting the tech found the incorrect firmware in the switch.  Made proper corrections and the system is operational.",D101,1515,2,Repair,6.2,Other,11239128,CABINET; MAIN SERVER;ADM NET,423,3
+21-Sep-16,HELIDECK CRANE - CORRECTIVE ACTIONS,Corrected,Corrective actions taken prior to IFS going live,D101,1515,2,Repair,1,General,11220683,CRANE; SERVICE;HELIDECK,563,3
+21-Sep-16,RISER GANTRY - CORRECTIVE ACTIONS,"
+See attached report for corrective actions",Completed corrective actions 4.1.9-4.1.10 and 8.1.6. Applied grease to densto tape on fittings.,D101,1515,7,Service,2.3,Erosion,11220221,RISER GANTRY CRANE SYSTEM,362,12
+27-Nov-16,Shaft seal is leaking,pump overhauled with new shaft seal,Removed dismantled inspected and replaced both bearing and mechanical seal. Secondary seal has a snap ring (not made reference to in the manual) that was out of position and the snap ring groove appears to have somehow been worn. Old mechanical seal had obvious wear. Reassembled with new seal installed and tested for leaks and proper engine performance. All in good working order. : WHM006 2016.11.29 12:56:33,D101,1515,2,Repair,1.1,Leakage,11232315,PUMP UNIT NO.3; EMCY;MDO;E/R;STBD,703,1
+20-Sep-16,Helifuel hose reel adapter,adapter needs to be replaced,adapter needs to be replaced,D101,1515,1,Replace,2.4,Wear,11220443,REFUELLING SYSTEM; HELIDECK,566,2
+12-Dec-16,#2 R.O. Media Filter Tank,repaired,apply two part epoxy to hole in media filter tank,D101,1515,2,Repair,2.2,Corrosion,11223604,GEN NO.2; FW; REVERSE OSMOSIS; E/R; CNTR,761,31
+04-Dec-16,Change out flex joint on cement bulk silo#2,replace flex joint,Changed out flex joint #2 cement silo fill up line.,D101,1515,1,Replace,1.4,Deformation,10181186,FLEX JOINT NO.1; TK UNIT NO.2;CMNT,321,1
+21-Sep-16,RCWM trolley chain snapped,replace broken parts,New shaft was installed with new sprockets. New triplex and simplex chains were installed and tensioned. Encoder for triplex chain was adjusted as needed for correct tension and alignment. Shuttle was operated. All checks good.,D101,1515,1,Replace,1.4,Deformation,11220317,CATWALK; RISER HANDLING,347,14
+02-Oct-16,Replace gearbox protective caps,replace missing caps,replace missing caps,D101,1515,1,Replace,2,General,11220318,DECK CRANE NO.4; AFT PORT,361,9
+10-Sep-16,Duct heater-coffee shop-burnt elements,replace heating elements,heater faulty,D101,1515,1,Replace,4,General,11227344,PANEL; DUCT HEATER; COFFEE SHOP,875,2
+09-Aug-16,#4 Thruster Room- Package A/C #3 Tripped,See confirmation text,Looked up parts. Ran them down by using legacy material number. Descriptor on the IFS part number seemed limited but managed to match everything up. Will replace part tonight. Installed new contactor. Need Engine Department to remove their isolation so I can test the AC package. Replaced contactor and op checked. AC package cools as it should. Buttoned it up and left it running.,D101,1515,1,Replace,4.1,Short circuiting,11220479,A/C NO.3; PACKAGED;PORT STERN T/R,576,2
+10-Dec-16,Remove PSV from IFS,PSV was previously removed and now requires scrapping as it is no longer available on the rig,PSV was previously removed and now requires scrapping as it is no longer available on the rig,D101,1515,12,Other,6.2,Other,11631296,PIPING; WCCU NO.1;TOPSIDE - GROUP,574,3
+06-Dec-16,Local control switch broken,Local control needs a new switch.,Switch works as designed.  No defects,D101,1515,12,Other,6.2,Other,11247346,DAMPER; PNEUM;SUPP FAN NO.2;SH SHKR RM,575,1
+18-Dec-16,Defaulted fan belt,replace,replace belt,D101,1515,1,Replace,1,General,11224478,MOTOR; AC; CENTRIF FAN; PACKAGED A/C,576,1
+17-Dec-16,Move from facility to inventory,Add to inventory to place in structure MRU-H-M serial No 10345 and remove Serial No8616 for calibration,Transfer MRU into stock to allow it to be placed in structure,D101,1515,6,Check,6,General,10201656,MOTION REFERENCE SYSTEM; AUX,312,1
